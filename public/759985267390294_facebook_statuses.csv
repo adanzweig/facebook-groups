@@ -1,0 +1,817 @@
+status_id,status_message,status_author,link_name,status_type,status_link,status_published,num_reactions,num_comments,num_shares,num_likes,num_loves,num_wows,num_hahas,num_sads,num_angrys
+759985267390294_1576528442402635,"For those wanting to work with big data, Reddit released a dataset of all tile placements on /r/Place, with plenty of examples.",Max Woolf,Place Datasets (April Fools 2017) • r/redditdata,link,https://www.reddit.com/r/redditdata/comments/6640ru/place_datasets_april_fools_2017/,2017-04-18 13:05:45,0,0,0,0,0,0,0,0,0
+759985267390294_1576518979070248,"Hello everyone!
+I'm working towards a website which will need authentication and at one point will also become an app, I want to avoid using OAuth (using Gmail, Facebook, etc.). I'm looking for any advice on how to get started and which framework would best cater to my needs?",Ayushya Amitabh,,status,,2017-04-18 12:54:31,1,0,0,1,0,0,0,0,0
+759985267390294_1575903159131830,"If you live, breathe and sleep AI, you should sign up to volunteer at Global AI Hackathon in San Francisco.
+
+jk, anyone can sign up. <3
+
+http://ai.hackathon.com/",Prashish Rajbhandari,Global AI Hackathon - San Francisco - Volunteer Sign-Up,link,https://docs.google.com/forms/d/1J2ZhUoFXmXE2_t3cORlwaiCKZVPV1Ix_dXsd21t9TqU/edit?c=0&w=1#responses,2017-04-18 00:46:44,3,2,0,3,0,0,0,0,0
+759985267390294_1575648559157290,"Hey everyone,
+I'm somewhat new (<1 year) to programming and I'm trying to transition from engineering (my job now) into web app dev / ux possibly. I've gone through basic/intermediate HTML/CSS and right now I'm working myself through JS. 
+
+Does anyone have any advice/book recs/resource recs they'd be willing to throw my way? You're all awesome. Thanks!",Natalie Tham,,status,,2017-04-17 18:56:31,10,24,3,10,0,0,0,0,0
+759985267390294_1576145899107556,What do y'all think of this?🤔 There have been lots of talks of governments introducing a basic income due to the fact that robots will automate jobs. Looks like we'll need that basic income soon depending on what professions get automated in the near future.,Neil Patel,CNN,video,https://www.facebook.com/cnn/videos/10156467948131509/,2017-04-18 06:33:47,14,10,2,14,0,0,0,0,0
+759985267390294_1576060189116127,"after 39-40 hours, i finally solved the bug lol 
+
+(look at the commit messages)",Shashwat Shagun,,photo,https://www.facebook.com/photo.php?fbid=388733911526120&set=gm.1576060189116127&type=3,2017-04-18 04:25:19,51,12,0,34,0,0,17,0,0
+759985267390294_1576454232410056,"Hi guys can you send me names of laptops that are the best for programming, within the price range of $500-$600? Thank you fellow Hackers.",Jules Wright,,status,,2017-04-18 11:48:20,0,3,0,0,0,0,0,0,0
+759985267390294_1576484285740384,"Hey all, if you or a friend gets good news from YC today, let me know and I can help with a practice interview :)",Max Kolysh,,status,,2017-04-18 12:21:48,4,0,0,3,1,0,0,0,0
+759985267390294_1575777652477714,Has anyone done free code camp to augment their schooling? If so how did you like it and was it helpful?,Grant Simpson,,status,,2017-04-17 21:52:34,3,1,0,3,0,0,0,0,0
+759985267390294_1575517755837037,As seen on HackerNews.,Armand Michael,nvbn/thefuck,link,https://github.com/nvbn/thefuck,2017-04-17 15:19:02,32,3,2,29,0,0,3,0,0
+759985267390294_1576441552411324,"oh, you're still using yarn? heh, no...no...its fine.
+
+",Michael Pinter,Why should we use pnpm? · Zoltan Kochan,link,https://www.kochan.io/nodejs/why-should-we-use-pnpm.html,2017-04-18 11:32:32,1,0,0,1,0,0,0,0,0
+759985267390294_1576428652412614,"Hi everyone! Made a silly app.
+
+Punch ur friend on iMessage & see who has the stronger punch. 
+
+",Cezar Babin,PunchForPunch - Product Hunt,link,https://www.producthunt.com/posts/punchforpunch,2017-04-18 11:20:37,0,1,0,0,0,0,0,0,0
+759985267390294_1575607512494728,New Hackathon coming up in June! IBM Hacking in NYC at Galvanize! https://www.eventbrite.com/e/mobilemonday-api-first-hackathon-nyc-tickets-33320669018,Gabriel Ortiz,,photo,https://www.facebook.com/photo.php?fbid=10156031395889746&set=gm.1575607512494728&type=3,2017-04-17 17:44:01,24,7,0,21,2,1,0,0,0
+759985267390294_1575939762461503,"[Serious]
+I am taking Artificial Intelligence course in my University. Are there any cool ideas we can develop based on regression analyses?
+thanks",Saif Rahman,,status,,2017-04-18 01:26:56,1,2,0,1,0,0,0,0,0
+759985267390294_1574516495937163,"I made an app that matches comments on adult videos to inspirational wallpapers, with pretty hilarious results. 
+
+Tons of work to do to make it more functional, but it was some decent practice on web scraping. 
+
+If you want to download/star for a cheap laugh: 
+https://github.com/tonydelanuez/Juxtaposition-Generator
+
+Built with Python, Node, and Express. 
+
+Hosted it on Heroku but with the way I had it setup doesn't allow for ""random"" generation (can't write to Heroku filesystem and I use CSV)",Tony De La Nuez,,status,,2017-04-16 18:13:21,50,6,0,40,0,0,10,0,0
+759985267390294_1575575379164608,"One of the most popular ""programming"" quotes floating around the internet (my fav if I may add) is by John Johnson ""First, solve the problem. Then, write the code."" Now I have been trying to look up who he is but can't find him. Can anybody point me to where I can know more about him?? Thank you!",Joshua Abu,,status,,2017-04-17 16:57:25,3,2,0,3,0,0,0,0,0
+759985267390294_1575958095793003,Hi everyone! Can anyone help me to convert my shell script into a Rest api? I want to run the script via url and pass parameters to it :),Rahul Agarwal,,status,,2017-04-18 02:05:54,0,5,0,0,0,0,0,0,0
+759985267390294_1575811895807623,"New video out! 
+
+Disclaimer: FOR SANITY'S SAKE USE NGINX OR CADDY. But if ur hate urself. Here's some instructions to set up Apache. 😜
+
+https://www.facebook.com/TheAmyCode/photos/a.1838632056354433.1073741828.1827214117496227/1853823878168584/?type=3&theater",Amy Chen,Amy Codes,photo,https://www.facebook.com/TheAmyCode/photos/a.1838632056354433.1073741828.1827214117496227/1853823878168584/?type=3,2017-04-17 22:41:47,22,3,0,22,0,0,0,0,0
+759985267390294_1576264379095708,"Anyone on Udacity? which project are you currently on?
+
+Hypemanu-> Android development.
+I will be filling my Github account with the lessons learnt per session.",Hype Emmanuel Mcee,,status,,2017-04-18 08:31:20,0,0,0,0,0,0,0,0,0
+759985267390294_1576017402453739,"""Getting into tech"" doesn't necessarily mean you're just in it for the money. Thoughts?
+",Daniel Hsing,"Tech is the worst field to just ""get into""",video,https://www.youtube.com/watch?v=hYF-R9IsPyM,2017-04-18 03:16:17,1,2,0,1,0,0,0,0,0
+759985267390294_1575375109184635,I fucked up massively over the weekend... heres what happened.,Jay Zalowitz,"A Note on Losing 89,000 Readers in 33 Hours – Hacker Noon",link,https://hackernoon.com/a-note-on-losing-89-000-readers-in-33-hours-423861897748,2017-04-17 12:29:00,18,3,2,12,0,1,0,4,1
+759985267390294_1575203999201746,"I'm on the lookout for a gently used MacBook Pro with similar specs to what I have listed here. 
+
+Willing to discuss most reasonable offers, preferably within the USA.
+
+Please comment here if you've got one laying around your office/room and I'll PM you to start a discussion.",Oli Treadwell,,photo,https://www.facebook.com/photo.php?fbid=10155242823811468&set=gm.1575203999201746&type=3,2017-04-17 09:22:07,6,3,0,6,0,0,0,0,0
+759985267390294_1575338642521615,"Brilliant opportunity for all the deep learning and AI folks over here. Deep Learning Camp Jeju 2017 is a fully funded month-long program in Jeju Islands, South Korea, where participants gain hands-on experience with TensorFlow through individual-based proposed projects. Via Flow | Empowering Students",Harshit Jaiswal,"Machine Learning Camp Jeju, South Korea - 2017 (Fully Funded) | Flow",link,http://bit.ly/2on18xZ,2017-04-17 11:57:20,14,1,3,13,1,0,0,0,0
+759985267390294_1576157112439768,"Hey HH! I'm looking for some feedback for something I'm working on. This is for all the people that have ever needed a logo for their service, product or something else.
+
+Please view the current landing page to get an idea of how it will work when the software is done, and/or read below. https://logodrops.com/
+
+I'm working on an online logo maker where you can get a logo made in just a couple minutes. Select a style, choose your colors, describe what your business is about or does and *poof*, you get 20 logos delivered to your screen in seconds.
+You then get the option to generate more logos, or.. select a logo and modify the font, colors, symbol or layout. Simple, yet professional looking logos. No templates but a mix of symbols, shapes, monograms and fonts.
+
+Once you're happy with the result you can purchase all the source files (vector/svg) plus other assets such as a reversed colored version, templates for business cards or for your social media pages.
+
+Any suggestions for the LP or how the software will work?
+Maybe something you're looking for in a logo?
+Would you or how much would you pay for a logo with a free/premium font including nicely placed symbols/shapes?",Giliam Verheide,Online logo maker: Design your own logo in 3 simple steps,link,https://logodrops.com/,2017-04-18 06:45:27,0,0,1,0,0,0,0,0,0
+759985267390294_1560213570700789,"*Please note* : bofrost* hackathon postponed !! NEW DATE: 09.-11.06.2017
+
+_
+
+Hey there!
+Who´s in for a Food/Delivery hackathon? We are looking for creative startups, students, developer, designer and biz people and would like to invite you to the Bofrost hackathon in Cologne!! 
+For more information and free tickets, this way please ;)
+
+http://hack.institute/events/bofrost-hackathon/
+
+Best,
+Nadja from hack.institute",Nadja Eminoğlu-Leuci,bofrost* Hackathon am 09.-11.06. in Köln,link,http://hack.institute/events/bofrost-hackathon/,2017-04-05 06:28:30,4,2,0,4,0,0,0,0,0
+759985267390294_1573233566065456,"damn it guys, react or angular? I just can't decide.",Steven  Shang,,status,,2017-04-15 15:52:02,28,75,0,22,0,0,6,0,0
+759985267390294_1575982439123902,Hi guys! Is there anyone from Khan Academy in this group? Or do you know of someone who works over there? It would be awesome if you can put me in touch :),Muhammad Yasoob Ullah Khalid,,status,,2017-04-18 02:31:01,1,0,0,1,0,0,0,0,0
+759985267390294_1575970245791788,,Deepak S Devu,Codeground,photo,https://www.facebook.com/codeGroundOnlineTest/photos/a.1525866594392121.1073741828.1514950148817099/1753103005001811/?type=3,2017-04-18 02:16:14,0,0,0,0,0,0,0,0,0
+759985267390294_1573979072657572,https://www.xudongz.com/blog/2017/idn-phishing/,Manan Singh,Phishing with Unicode Domains - Xudong Zheng,link,https://www.xudongz.com/blog/2017/idn-phishing/,2017-04-16 07:55:52,107,6,5,73,2,30,1,1,0
+759985267390294_1575738122481667,"Hi fellow Hackathon Hackers! :)
+
+Does someone know the best way to contact Jay Freeman (Cydia)? This is regarding a hackathon.
+
+Thanks :)",Dhanush Patel,,status,,2017-04-17 21:02:30,5,5,0,5,0,0,0,0,0
+759985267390294_1574013595987453,[serious] Why is this group so interested in startups and entrepreneurship?,DeAndre Washington,,status,,2017-04-16 08:50:13,64,37,0,50,2,0,11,1,0
+759985267390294_1574606185928194,Pipey – Silicon Valley,James Biswas,Pipey – Silicon Valley,link,https://chrome.google.com/webstore/detail/pipey-%E2%80%93-silicon-valley/lflfcoohcjnefmkolcdalkiiallgabon?utm_source=chrome-ntp-icon,2017-04-16 20:16:30,41,5,0,34,1,0,6,0,0
+759985267390294_1573987869323359,"Hey everyone, so I'm working on my personal webserver tonight. I've installed EHCP (Easy Hosting Control Panel) onto a Ubuntu-based webserver before with no problems. 
+
+I'm using Windows 8.1, and PuTTY as my console. I run a droplet off of DigitalOcean. 
+
+However, when I use the steps provided in 
+
+http://www.servermom.org/ehcp-installation-guide-on-ubuntu-14-04-vps/
+
+I get stuck at this: (points to attached screenshot)
+
+Does anyone know where I went wrong, or if I did at all? I have a guess that because EHCP is older, it's install script may reference a version of PHP that is not actively being maintained by apt-get anymore? 
+
+I appreciate any help I can get on this, thx :D",Jesse Hayward,,photo,https://www.facebook.com/photo.php?fbid=10158512226960463&set=gm.1573987869323359&type=3,2017-04-16 08:11:26,1,7,0,1,0,0,0,0,0
+759985267390294_1575183142537165,0:43 >start counterstrike lol,Luong Vo,The Most Accurate Hacking Scene Ever,video,https://www.youtube.com/watch?v=K7Hn1rPQouU,2017-04-17 09:08:16,31,5,0,21,0,1,9,0,0
+759985267390294_1575768325811980,"Have you taken the time to 'like' us? Take a fraction of a second to like our page! We engage in the betterment of the Monterey County, California by teaching computer science and heighten community problem-solving, like herScript Hacks 2017 and HerScript Presents, Hack Your Curiosity Part 4: MOBILE APP DEVELOPMENT
+
+Thank you for your support <3",Anita Garcia,herScript,link,https://www.facebook.com/herScriptCS/,2017-04-17 21:36:15,2,0,0,1,1,0,0,0,0
+759985267390294_1575238222531657,"Hi all,
+
+Im a Duke ECE/CS student looking for a summer SWE internship and was wondering if HH has any resources to help?
+Maybe a list of startups looking for interns or a location to post github/likedin/resume?
+
+Thanks",Jeremy S Morgan,,status,,2017-04-17 10:05:36,17,6,0,13,1,0,0,3,0
+759985267390294_1575725175816295,,Jesica Quinones,HackUMass,photo,https://www.facebook.com/hackUMass/photos/a.266410723526015.1073741828.259740784193009/813553995478349/?type=3,2017-04-17 20:41:59,1,0,0,1,0,0,0,0,0
+759985267390294_1574563122599167,"I've spent too much time on this... only got to be a unicorn twice D:
+ ",Leanna Pancoast,Unicorn Startup Simulator by Toggl | Put your entreprenurial skills to the test,link,https://toggl.com/startup-simulator/,2017-04-16 19:20:24,82,9,6,65,2,1,14,0,0
+759985267390294_1575643905824422,Does anyone have experience with Omeka. My team and I are currently stuck on a project and need some help.,Saurav Kharb,,status,,2017-04-17 18:44:35,1,0,0,1,0,0,0,0,0
+759985267390294_1575640489158097,Finally!,Ash Pachelli,"Google, Huawei May Soon Face Class-Action Lawsuit Over Nexus 6P Early Shutdown, Bootloop Issues",link,http://www.techtimes.com/articles/205062/20170417/google-huawei-may-soon-face-class-action-lawsuit-over-nexus-6p-early-shutdown-bootloop-issues.htm,2017-04-17 18:37:28,2,0,0,2,0,0,0,0,0
+759985267390294_1575622152493264,I'm writing a paper with my professor on restrictive covenants in the tech industry - anybody want to offer up any privacy policies they have that aren't under NDA?,Michael Gangnath,,status,,2017-04-17 18:11:21,2,0,0,2,0,0,0,0,0
+759985267390294_1574355029286643,I'm starting college in September. I need a good computer for photo/video editing and coding software. What do people recommend?,Lucky Milo Whitburn-Thomas,,status,,2017-04-16 14:54:13,6,30,0,6,0,0,0,0,0
+759985267390294_1575446075844205,,Victor,Five Things I've Learned As A New Manager At Google,link,https://www.fastcompany.com/40405205/five-things-ive-learned-as-a-new-manager-at-google,2017-04-17 13:50:22,13,1,1,13,0,0,0,0,0
+759985267390294_1570951889626957,"What bug are y'all currently trying to fix?
+
+I'm having this weird problem where the first element in my array is being skipped in a certain function.
+Your turn.",Hamza Khan,,status,,2017-04-13 20:24:30,6,34,0,6,0,0,0,0,0
+759985267390294_1575467672508712,"How Good Archiving Prevents Dark Ages
+",Chris Parbey Jnr,How Good Archiving Prevents Dark Ages - Edgy Labs,link,https://edgylabs.com/2017/04/17/good-archiving-prevents-dark-ages/,2017-04-17 14:16:55,3,0,0,3,0,0,0,0,0
+759985267390294_1575447712510708,Something that you may find informative/interesting.,Ankit Arya,Phishing with Unicode Domains - Xudong Zheng,link,https://www.xudongz.com/blog/2017/idn-phishing/,2017-04-17 13:53:30,1,0,0,1,0,0,0,0,0
+759985267390294_1574291965959616,ReactJS vs. AngularJS vs ...? for Steven Shang,Hanns Chong,,status,,2017-04-16 13:45:21,3,9,0,3,0,0,0,0,0
+759985267390294_1575380745850738,Anyone know why Docker Shipyards website is down?,Max Farrell,,status,,2017-04-17 12:36:25,0,0,0,0,0,0,0,0,0
+759985267390294_1572132722842207,Anyone building an uber for homemade food? ,Dan Gailey,Tommy Wooley's post,link,https://baqqer.com/posts/2098,2017-04-14 18:07:48,8,17,0,7,1,0,0,0,0
+759985267390294_1575333699188776,"Watch DockerCon17 live from your device
+🐳🐳🐳",Iliad,Livestream – dockercon,link,http://2017.dockercon.com/livestream/,2017-04-17 11:53:01,0,0,0,0,0,0,0,0,0
+759985267390294_1574330319289114,"[long post]
+Hey hackathonees? well, i am on instagram [and it is immense]. so, i like finding new connections. but every time i click some profile, like [deuhacks, java_posts] i only can screenshot their profile to save their works. is there a way of creating data scrappers to store my instagram activity? we can name it instascrape.
+
+EDIT: my instagram username is @hypemanu",Hype Emmanuel Mcee,,status,,2017-04-16 14:29:11,1,3,0,1,0,0,0,0,0
+759985267390294_1574356049286541,https://competitiveprogrammers.blogspot.in/ Hope this will be useful :),Priyam Kakati,Competitive programming for beginners,link,https://competitiveprogrammers.blogspot.in/,2017-04-16 14:54:40,12,2,1,12,0,0,0,0,0
+759985267390294_1575246552530824,Some fun morning reading: ,Amy Chen,Announcing Longhorn: open source project for microservices-based distributed block storage,link,http://rancher.com/microservices-block-storage/,2017-04-17 10:16:23,2,0,1,2,0,0,0,0,0
+759985267390294_1575243492531130,Good Morning Hackers!! Is there anybody here who knows people at Spotify I could reach out to? Looking to try and get my music on some playlists....thanks!! https://open.spotify.com/album/3PL7Gt2p0w55TubmygQ9Qz,Eva Snyder,,status,,2017-04-17 10:12:43,7,0,0,5,2,0,0,0,0
+759985267390294_1574952172560262,"Hi everyone!
+
+I built this small React app to convert dec-hex-bin-oct just for fun. It's the first React app that I build without following any tutorial and it's far from being completed since I only worked on it a few hours this weekend. Please take a look and let me know any thoughts! :) ",Kervin Lenin Vasquez H,Document,link,http://kervin-num-converter.herokuapp.com/,2017-04-17 03:35:24,9,1,0,8,0,1,0,0,0
+759985267390294_1575195145869298,"Howdy folks!
+
+Looking forward to participating in this group.
+
+My name is Oli Treadwell, I'm a Software Engineer & Educator. Currently, working with Galvanize in Austin Texas.",Oli Treadwell,,status,,2017-04-17 09:17:34,2,0,0,2,0,0,0,0,0
+759985267390294_1574292969292849,Hey everyone I planning on buying a new Android phone. What would you guys recommend? Hopefully something in the $400 range.,Paul Weliczko,,status,,2017-04-16 13:46:40,4,16,0,4,0,0,0,0,0
+759985267390294_1574258919296254,Something that I'm working on. It does not function yet but I wanted to get an idea of how all of you like the questions and so on.,Jacob Roscoe,Unicorn,link,http://jacobroscoe.com/unicorn/index.html,2017-04-16 13:03:15,2,1,0,2,0,0,0,0,0
+759985267390294_1574752972580182,"GitHub Uses Broken Cryptography, But It Has a Plan
+__________
+
+""In February, Google shocked the cryptography community by effectively breaking the stalwart SHA-1 hashing algorithm, making hypothetical concerns about the security of SHA-1 concrete for the first time. 
+
+While most folks have moved on from SHA-1 already, there's one place on the web that has the algorithm at its core: GitHub, the nerve centre of every open source project from bitcoin, to government-owned elections software, to the weekend projects of most DIY-minded developers.""
+
+EDIT: See James Mishra 's link for a more detailed and nuanced discussion on the topic.  
+
+",Philippe Castonguay,"GitHub Uses Broken Cryptography, But It Has a Plan",link,https://motherboard.vice.com/en_us/article/github-uses-broken-encryption-but-it-has-a-plan,2017-04-16 23:08:22,22,3,2,21,1,0,0,0,0
+759985267390294_1574961149226031,EU funds new data accelerator to get startups tackling societal problems http://tcrn.ch/2oE4vUB  #innovation #H2020 #OpenData #hackathons,Mogens Henrik Sørensen,Europe funds another data accelerator to get startups tackling societal problems,link,http://tcrn.ch/2oE4vUB,2017-04-17 03:50:30,7,0,2,7,0,0,0,0,0
+759985267390294_1574925345896278,,Kunal Jain,Analytics Vidhya,photo,https://www.facebook.com/AnalyticsVidhya/photos/a.457177331040819.1073741827.452065408218678/1294750777283466/?type=3,2017-04-17 02:36:46,1,0,0,1,0,0,0,0,0
+759985267390294_1574882315900581,NativeScript Speech Recognition with Angular 4 ,Paul Halliday,NativeScript Speech Recognition with Angular 4,video,https://youtu.be/C5i_EYjfuTE,2017-04-17 01:39:05,3,0,0,3,0,0,0,0,0
+759985267390294_1523606667694813,"Hey everyone! Just wanted to remind everyone that we all love memes. Honestly, we do. But they do fill up the group, so as per the Code of Conduct, we will remove any ""shitposting, bad programmer jokes, or memes.""
+
+Thankfully, there are subgroups for all of your shitposts, jokes, and memes! Feel free to join HH Sensible Chuckle or another appropriate subgroup to post to your heart's content.
+
+(this policy also applies to comments made on other members' posts)
+
+Full list of subgroups is available here - https://github.com/HackathonHackers/groups",Tristan Wiley,,status,,2017-03-04 11:17:23,123,15,0,94,3,0,1,9,16
+759985267390294_1574155225973290,"Does anyone have experience deploying a Django web-app to an Apache server? 
+
+I've looked online and the documentation is minimal.",Thomas Ortiz,,status,,2017-04-16 11:19:27,5,6,0,5,0,0,0,0,0
+759985267390294_1574817989240347,"hey guys! do register! it's a fun weekend challenge and with some real quick good money! (you could have a crazy fun weekend with it for sure.)
+
+the only criteria is that you must know Japanese to register.
+
+#coding #webstaff #hackerearth",Sanjana Mehta,Japan National Coding Contest,link,https://www.hackerearth.com/en-us/challenge/competitive/japan-national-coding-contest-1/,2017-04-17 00:30:38,11,1,0,8,0,0,0,3,0
+759985267390294_1574531552602324,"has anyone here participated in google codeu (not summer of code)? I was invited to it and I couldn't find much info about it, so I would love to hear people's experiences, what projects they made, etc!!",Sanjana Natraj,,status,,2017-04-16 18:31:09,10,1,0,7,0,3,0,0,0
+759985267390294_1574417339280412,"anyone here have any experience with trying to install gitlab-communityedition? mind boggling how overcomplicated its gotten, especially granted that its a pretty and convenient replacement for a 30 line shell script (https://gist.github.com/alexanderankin/f7990e96ccd09e040a03d702f26f7661), with this, I dont have to worry about conflicting ports for ssh servers, or setting up reverse proxies, or load balancing, or external urls, or lets-encrypt integration (because they have their own tools for that), or any of the rest of it... It sort of makes me worried about the direction of some open source projects when they take a dive into dev-ops-istan, am i the only one?",David Ankin,,status,,2017-04-16 16:23:52,3,1,0,3,0,0,0,0,0
+759985267390294_1571934239528722,"New youtube Layout & ""Dark Mode""
+
+Put this into your console on youtube.com,
+Refresh, then click on your profile photo
+var cookieDate = new Date();
+cookieDate.setFullYear(cookieDate.getFullYear( ) + 1);
+document.cookie=""VISITOR_INFO1_LIVE=fPQ4jCL6EiE; expires="" + cookieDate.toGMTString( ) + ""; path=/"";",Iliad,YouTube has a secret 'Dark Mode' – this is how you activate it,link,https://thenextweb.com/google/2017/04/14/youtube-secret-dark-mode-activate,2017-04-14 14:04:05,48,18,6,42,1,3,2,0,0
+759985267390294_1573386842716795,"Hey everyone... We fixed things so you trolls cant hijack everything again. But for those of you that think you can... good luck ;)
+We are live streaming an amazon Alexa that will say what ever you tell it to say on this link: https://speak.ngrok.io
+Curious to see what happens!",Waseem Shabout,speak.ngrok.io,link,https://speak.ngrok.io/,2017-04-15 19:09:37,7,4,0,7,0,0,0,0,0
+759985267390294_1574061719315974,"Hi all,
+Why should we learn GraphQl ?",Abhinav Ravi,,status,,2017-04-16 09:36:14,3,3,0,3,0,0,0,0,0
+759985267390294_1574574345931378,,Jay Gupta,Nethemba,link,https://arstechnica.com/security/2017/04/nsa-leaking-shadow-brokers-just-dumped-its-most-damaging-release-yet/,2017-04-16 19:39:47,10,0,0,10,0,0,0,0,0
+759985267390294_1571650346223778,what are the favourite useful programming languages which is good to learn,Sai Venkata Srinivasan Saripalli,,status,,2017-04-14 09:55:17,1,9,0,1,0,0,0,0,0
+759985267390294_1572398812815598,Highest cup stack ever?,Md Malsi,,photo,https://www.facebook.com/photo.php?fbid=345679569167374&set=gm.1572398812815598&type=3,2017-04-14 23:36:36,369,29,0,317,3,40,9,0,0
+759985267390294_1574486385940174,We're live at Hack Days in San Francisco! :) Join us!,Dan Gailey,RadBots,video,https://www.facebook.com/radbotsapp/videos/282923608817428/,2017-04-16 17:44:41,1,0,0,1,0,0,0,0,0
+759985267390294_1573197169402429,"Try to beat my record on CodeTrace :D --> Level 5, 2796XP",Rafa Mkrtchyan,Rafayel Mkrtchyan at CodeTrace.io,link,https://codetrace.io/users/MicBrain,2017-04-15 15:11:54,22,12,0,16,4,2,0,0,0
+759985267390294_1573059496082863,https://m.facebook.com/story.php?story_fbid=752285524952970&id=112282008953328 Wow!,Ashwin Thiagarajan,Google Developers,video,https://www.facebook.com/967415219957038/videos/1466854780013077/,2017-04-15 12:36:51,57,7,4,45,4,8,0,0,0
+759985267390294_1573453752710104,Any good resources to learn WebGL?,Harman Singh,,status,,2017-04-15 20:35:11,7,19,0,7,0,0,0,0,0
+759985267390294_1572152356173577,"Excited to share a side project that I've been working on!
+
+pokerchips.io is a mobile-first web app that lets you play poker with your friends when you don't have chips. Simply create a table, share the link with your friends, and start playing poker — using your phones as virtual chip remotes. Check it out!",Raymond Xu,pokerchips.io,link,http://pokerchips.io/,2017-04-14 18:31:13,126,12,1,112,7,7,0,0,0
+759985267390294_1570689756319837,"Apart from .com and .io domains, which other domain extensions are great?",Hype Emmanuel Mcee,,status,,2017-04-13 14:59:51,1,17,0,1,0,0,0,0,0
+759985267390294_1574208479301298,Does anyone know how to embed a Facebook photo album onto a website? I've tried Googling it and have had no luck finding something that works.,Brandon Schwartz,,status,,2017-04-16 12:09:54,2,5,0,2,0,0,0,0,0
+759985267390294_1573182606070552,"Does anyone here know how to create digital Arabic calligraphy? I'm at the NYU Abu Dhabi hackathon for social good in the Arab world, and we are trying to create a nice quote for our presentation/marketing materials.
+
+This photo is what the quote looks like written out by hand",Erin Hoffman,,photo,https://www.facebook.com/photo.php?fbid=10209042450163799&set=gm.1573182606070552&type=3,2017-04-15 14:49:37,9,9,0,8,1,0,0,0,0
+759985267390294_1117131001675717,"Hi everyone. PennApps this weekend was my first hackathon, and to be honest, I didn't really like it. I wrote a satirical article about my experience there. For those of you who attended, I hope you find some amusement in this piece. Any event that happened that seems well within the realms of possibility actually did occur. Any event that didn't happen is made quite obvious in its exaggeration. Enjoy.",Gabe Zavtra,My First Experience at a Hackathon,link,https://medium.com/@Gabraham/my-first-experience-at-a-hackathon-a8494b875b34,2015-09-07 20:40:10,336,67,0,336,0,0,0,0,0
+759985267390294_1571183972937082,"YouTube got hacked by OurMine again.  Has anyone heard of them, and what are they?",Jarrod Luca,,photo,https://www.facebook.com/photo.php?fbid=10208717772083048&set=gm.1571183972937082&type=3,2017-04-14 01:07:51,17,12,0,15,0,0,2,0,0
+759985267390294_1573107429411403,How many of you attending ongoing YC Startup School founder's track?,Harshit Jaiswal,,status,,2017-04-15 13:27:26,8,5,0,8,0,0,0,0,0
+759985267390294_1573528339369312,"Hey all -- Was wondering if anyone here knows of a Facial Action Recognition system(FACS/AU) that I could easily implement? If not, does anyone know of a way to recognize various facial actions(widening of eyes, opening mouth, frowning, etc)? 
+
+Using Python + OpenCV right now for detecting faces. 
+
+Thanks! 
+ 
+PS: Pls no node.js",Stefan Stokic,,status,,2017-04-15 22:12:11,10,5,0,9,1,0,0,0,0
+759985267390294_1496350070420473,"[HELP] Does anyone here are from the below-mentioned universities? 
+Hosting an online hackathon and need some coordinators from the campus. 
+
+The first six from US, Canada and the next 5 from Asia Pacific region.
+
+Please connect with me if anyone of you have any leads in these campus.",Mohammed Rafy,,photo,https://www.facebook.com/photo.php?fbid=1273849966036511&set=gm.1496350070420473&type=3,2017-02-06 04:06:12,4,18,0,4,0,0,0,0,0
+759985267390294_1573263119395834,"If you're in the tri-state area, please check out hackMHS IV, one of the biggest hackathons in NJ. 
+
+It is on May 27th-28th from 12pm to 12pm and is open to high schoolers ages 13-18 years old!
+
+Register now at http://hackmhs.com/",Tejas Gupta,HackMHS IV,event,https://www.facebook.com/events/423053361395784/,2017-04-15 16:40:55,9,5,0,9,0,0,0,0,0
+759985267390294_1572344049487741,"I've a python script xyz.py which loads 1GB of data into RAM to process anything given to stdin and gives output to stdout.
+
+Now, to avoid loading again and again,  i want to load this script once and let it run into background and invoke it again and again from some command in cmd and get stdout. Is there a way to implement it ?",Rajan Kumar,,status,,2017-04-14 22:34:55,3,10,0,3,0,0,0,0,0
+759985267390294_1573526739369472,"#snackdown 2017 is back! It is a contest organized by Directi every year,participate to compete with the best coders world wide, if you can code you can participate and show your coding skills to the world. Dont miss this golden chance to showoff your skill, HURRY participate asap. ",Vraj Shah,SnackDown 2017 | CodeChef,link,https://goo.gl/sOKsRb,2017-04-15 22:09:31,2,0,0,2,0,0,0,0,0
+759985267390294_1573517226037090,"I scrapped together a plugin that help you highlight a website based on a word list. Why? Well, let say you wonder: how much German can I read after finishing that Duolingo's  German course? Just use this plugin and head to German wikipedia, maybe?
+Check out ""Esperanto"": https://chrome.google.com/webstore/detail/esperanto/polehohpiildedlcimlencodbghhbcaa?utm_source=gmail
+I would love to hear any suggestions. Frankly, if I get one or two new users besides myself, I would be the happiest guy in the universe.
+p/s: it is on github too https://github.com/nhamlv-55/Esperanto",Le VN,Esperanto,link,https://chrome.google.com/webstore/detail/esperanto/polehohpiildedlcimlencodbghhbcaa?utm_source=gmail,2017-04-15 21:54:15,4,0,0,4,0,0,0,0,0
+759985267390294_1573462332709246,"Hey everyone, I wanted to see if I can ask for a favor. I need to find good resources on virtual memory/virtual machine security/protection. If anyone know any good links, articles, videos it would help me a lot. thank you.",Tanner Summers,,status,,2017-04-15 20:52:45,0,1,0,0,0,0,0,0,0
+759985267390294_1572330152822464,Tips for a software development interview? 👍,Raymond Lee,,status,,2017-04-14 22:12:01,1,10,0,1,0,0,0,0,0
+759985267390294_1573470019375144,fontawesome.io has the Pied Piper icons haha,Alvin Lin,,photo,https://www.facebook.com/photo.php?fbid=1313178855418213&set=gm.1573470019375144&type=3,2017-04-15 21:03:38,28,3,0,25,0,0,3,0,0
+759985267390294_1573380009384145,"Any IOS developers that is familiar with WatchConnectivity can tell me what this error means? 
+
+[WC] -[WCSession _onqueue_notifyOfMessageError:messageID:withErrorHandler:] 62AEA538-8E8A-446A-B4E3-65BB07315EBB errorHandler: NO with WCErrorCodeTransferTimedOut->IDSErrorTypeTimedOut->IDSResponseTimedOut
+
+More context here : ",Dre Campbell,WatchConnectivity timeout error between iphone and apple watch,link,http://stackoverflow.com/questions/43420801/watchconnectivity-timeout-error-between-iphone-and-apple-watch,2017-04-15 19:05:13,0,0,0,0,0,0,0,0,0
+759985267390294_1573356829386463,Are you in #Colombia? #Y4PThackathon,Seb Per,Youth For Public Transport (Y4PT),link,http://www.y4pt.org/projects/hackathon/,2017-04-15 18:35:26,1,0,0,1,0,0,0,0,0
+759985267390294_1572346039487542,Interesting...,Ishan Goel,,photo,https://www.facebook.com/photo.php?fbid=1486763644727680&set=gm.1572346039487542&type=3,2017-04-14 22:38:28,86,8,0,66,0,7,10,3,0
+759985267390294_1570054056383407,.,Parham PD,Just Andrew,video,https://www.facebook.com/JustAndrewX/videos/949193361851023/,2017-04-13 01:45:15,272,20,47,189,14,0,69,0,0
+759985267390294_1573261169396029,Hey Everyone! Check out MVHacks coming this summer! For all new and experienced programmers. Sign up now at ,Paran Sonthalia,MVHacks - Bay Area Summer Hackathon,link,http://mv-hacks.com/,2017-04-15 16:38:19,0,0,0,0,0,0,0,0,0
+759985267390294_1572957962759683,https://www-bbc-co-uk.cdn.ampproject.org/c/www.bbc.co.uk/news/amp/39533308,Natu Myers,Artificial intelligence: How to avoid racist algorithms - BBC News,link,https://www-bbc-co-uk.cdn.ampproject.org/c/www.bbc.co.uk/news/amp/39533308,2017-04-15 10:37:54,51,2,4,45,4,0,1,1,0
+759985267390294_1572693052786174,"[Fixed] Enter : ""close_windows_when_empty"": false into User Settings.
+
+So, I'm trying to launch Sublime Text 3 on my Sierra macbook right now and everytime i do, it shows the text window for a fraction of a second and then disappears. To show it, I have to click the icon every time and it's really annoying. Any idea what's going on? I don't have this behaviour on my hackintosh though
+
+Further testing revealed that it happens on an on and off basis. I launch the app once, it doesn't show a window. I open the app again, it does show a window. and rinse and repeat",Ramy Nabil,,status,,2017-04-15 06:09:50,0,3,0,0,0,0,0,0,0
+759985267390294_1573180279404118,"HackUMBC is excited to announce the registration for its Innovate Good hackathon is live! Innovate Good will be a 24-hour event with the theme of creating software or hardware projects to benefit social causes. We have 4 main tracks we will be awarding prizes for:
+- Health Environmental
+- Legal/Justice
+- Housing
+- Education
+In addition to these tracks, we will also have sponsor prizes as usual! Please register early as we will only be accepting a limited number of attendees.
+
+",Jaime Orellana,Innovate Good,link,https://innovate.hackumbc.org/,2017-04-15 14:47:31,5,2,1,5,0,0,0,0,0
+759985267390294_1570886242966855,"Apparently these hackers have taken over many popular youtube videos. Youtube search: ""#OurMine https://youtu.be/IdJuVgR_-7M"" and you can see all the videos they hacked.
+Anyone know more about this?",Luc Olsthoorn,,photo,https://www.facebook.com/photo.php?fbid=826386374182171&set=gm.1570886242966855&type=3,2017-04-13 19:13:48,9,4,0,9,0,0,0,0,0
+759985267390294_1573139009408245,"For those who have learned some python and want to get better, more ""idiomatic,"" I wrote a little article on fully leveraging sets into your coding workflow, I hope you like it: ",Roy Zheng,The Joy of Pythonic Sets,link,http://wontonst.blogspot.com/2017/04/the-joy-of-pythonic-sets.html,2017-04-15 14:03:48,4,0,0,4,0,0,0,0,0
+759985267390294_1558090857579727,"http://stackoverflow.com/questions/43176251/node-js-passport-google-oauth-not-authenticating
+I posted this question on Stack Overflow, but I'm not getting any answers :( I was wondering if anyone here could help.
+
+Basically, I'm having trouble authenticating after redirecting to /auth/google/callback?code=<whatever>#. Passport would not authenticate this, and I cannot figure out how to solve this problem.
+
+Thank you so much in advance!",Edward Joon-Hyuk Chang,Node JS Passport Google OAuth Not Authenticating,link,http://stackoverflow.com/questions/43176251/node-js-passport-google-oauth-not-authenticating,2017-04-03 10:27:33,5,5,0,4,0,0,0,1,0
+759985267390294_1573121289410017,https://www.facebook.com/IO2017/posts/372891663105032,Patel Pranay,I/O Event,link,http://play.google.com/store/apps/details?id=com.deargeek.googleio17,2017-04-15 13:47:35,3,0,0,3,0,0,0,0,0
+759985267390294_1573059356082877,"Blockchain hackathon next weekend in Toronto ; 
+
+",Philippe Castonguay,Blockchain hackathon in Toronto with Vitalik Buterin,link,http://bglhackathon.com/,2017-04-15 12:36:42,1,0,0,1,0,0,0,0,0
+759985267390294_1573041606084652,"Cool ad in France, but not sure if reactions are fake or not.
+
+Quick translation ; 
+
+People cross the street, a fake sound of car breaking goes on, people freak out, picture is taken and picture is put on a billboard with the message ; ""Don't take the risk of facing death"". 
+
+https://www.facebook.com/danstapub/videos/910982162397585/",Philippe Castonguay,Dans Ta Pub,video,https://www.facebook.com/danstapub/videos/910982162397585/,2017-04-15 12:15:27,12,0,0,9,0,3,0,0,0
+759985267390294_1567335713321908,"I know this may be more of a marketing type question, but there are a lot of web devs here trust may be able to give me advice. I just launched a new website and although I've went through SEO and keyword choice, popular search terms, etc. I seem to continue having trouble getting traffic. I have $100 google ad credit though it's probably not smart to promote a site that's just starting and doesn't have much to it.
+
+I should mention it's a blog and talks about projects (currently only one) and some background/concepts surrounding said projects. Other than trying to ""market"" myself in appropriate forums/communities what do you all recommend?
+
+Greatly Appreciated :)",Marcello Barbieri,,status,,2017-04-10 19:17:54,2,1,0,2,0,0,0,0,0
+759985267390294_1572796922775787,"Hi Hackathon HACKERS! I have a friend at Oxford doing PhD in Politics, suddenly found himself loving coding and want some further study this summer in London! Anybody knows any great coding camp in London to study web full-stack coding? Good to have a great environment where he can find nice peers to code together!",Zhang Jian Nan,,status,,2017-04-15 08:25:30,4,4,0,4,0,0,0,0,0
+759985267390294_1572832362772243,Part 11 of my tutorial. I setup the facebook auth flow in the server and make it ready to work with the mobile auth. Hope you enjoy :),Emanuel Quimper,React-Native & Node Tutorial - Build a Meetup app [Part: 11],video,https://www.youtube.com/attribution_link?a=SKoJZ7hs5LI&u=%2Fwatch%3Fv%3DKZWLd7OwQF8%26feature%3Dshare,2017-04-15 08:58:39,6,0,0,6,0,0,0,0,0
+759985267390294_1572806526108160,Is anyone attending Portland State University right now? Or knows anyone who are leasing their dorms for the summer? Please pm!,Joan Tubungbanua,,status,,2017-04-15 08:35:01,2,0,0,2,0,0,0,0,0
+759985267390294_1570849472970532,"print(""Hello, HH! I made a comic.¯\_(ツ)_/¯"")
+---
+http://www.webtoons.com/en/challenge/otter-this-world/list?title_no=74462
+Become a patron! https://www.patreon.com/reikacanja",Rei Kacanja,,photo,https://www.facebook.com/photo.php?fbid=643629095837325&set=gm.1570849472970532&type=3,2017-04-13 18:19:47,257,5,0,195,4,0,58,0,0
+759985267390294_1572002116188601,"Hey everyone... We are trying a sort of social experiment just to see what kind of stuff people will say when no one knows they are saying it.
+We are live streaming an amazon Alexa that will say what ever you tell it to say on this link: https://speak.ngrok.io
+Curious to see what happens!",Waseem Shabout,speak.ngrok.io,link,https://speak.ngrok.io/,2017-04-14 15:19:17,5,2,1,5,0,0,0,0,0
+759985267390294_1572623162793163,https://www.codechef.com/snackdown/2017?REF=ashsin108,Ashish Sinha,Home page | CodeChef,link,https://www.codechef.com/snackdown/2017?REF=ashsin108,2017-04-15 04:17:45,0,0,0,0,0,0,0,0,0
+759985267390294_1571974266191386,If someone understands Formal Languages and can tutor me I will pay lol...my teacher is so bad with her lectures I'm completely lost with this hw...,Luis Villavicencio,,status,,2017-04-14 14:44:26,1,5,0,1,0,0,0,0,0
+759985267390294_1572039462851533,"Hey guys.
+Does anyone know any service similar to Pushbullet Mirror Notification? The only difference from their service is that I want to send the notifications data to a webserver, not to my PC.
+
+Thank you!",Mihai Costi,,status,,2017-04-14 16:04:39,0,3,0,0,0,0,0,0,0
+759985267390294_1557503067638506,"What are salaries like in Los Angeles for (entry-level) software engineers? I've been poking around on Glassdoor but it's not really consistent with what Indeed says about LA salaries
+
+(I'm a backend guy if it matters at all)",Ian Mobbs,,status,,2017-04-02 21:52:43,1,3,0,1,0,0,0,0,0
+759985267390294_1570374806351332,,Souleymane Diaouné,Hacker News,link,https://techcrunch.com/2017/04/12/hell-o-uber/,2017-04-13 09:21:20,55,4,5,34,0,11,8,1,1
+759985267390294_1572229386165874,"For the past 3 weeks this one fucking feature has been pissing on me. Bug after bug after bug after bug.
+
+But fear not my brothers and sisters! I HAVE VANQUISHED SAID FEATURE. 
+No longer will it's problems keep me up at night.
+No longer will it's console.log()s plague me with nightmares.
+NO LONGER WILL I FEEL INADEQUATE!
+
+""You will find peace not by trying to escape your problems, but by confronting them courageously. You will find peace not in denial, but in victory."" - J. Donald Walters
+
+And how true this quote is because today, I am able to go back home and finally be at peace
+
+...until Monday when I have to deal with deploying this beast of programming hell.
+
+Good night.",Hamza Khan,,status,,2017-04-14 20:14:41,2,3,0,2,0,0,0,0,0
+759985267390294_1572423159479830,"LAST REMINDERS for applying to international hackathon Junction Tokyo 2017! The teams will be hacking among others the future of human and robot co-creation with SoftBank and Pepper robots, and sustainable consumption with DMM.com. Check the event  – less than ONE WEEK left to apply!",Niklas Karvonen,Junction Tokyo 2017,event,https://www.facebook.com/events/716717601823855/,2017-04-15 00:08:56,2,0,0,2,0,0,0,0,0
+759985267390294_1571961909525955,"We redesigned the MLH Season Events listing page - what do you think of the Beta?
+
+",Jonathan Gottfried,The Official 2017 Season North America Hackathon Schedule,link,https://mlh.io/beta/events/on,2017-04-14 14:29:43,39,8,0,30,6,2,0,0,1
+759985267390294_1572331316155681,"Hey everyone, hope everyone's having a great Long weekend! ... I'm going to spend it finding a few more Coding wizards! ... If you are or know someone who's excellent in C++ , Java, or .Net, please message me. Thanks!",Daniel Lim,,status,,2017-04-14 22:13:35,1,2,0,1,0,0,0,0,0
+759985267390294_1572364539485692,"I tried to apply for cuny tech prep, is signing up all you do and that counts as an application for the program ?
+thanks",Nayem Lb,,status,,2017-04-14 22:57:43,0,0,0,0,0,0,0,0,0
+759985267390294_1570970262958453,What's the most obscure hardware you've seen hacked?,Robert Rose,,status,,2017-04-13 20:45:33,0,7,0,0,0,0,0,0,0
+759985267390294_1571092402946239,"iojs vs nodejs?  What is best for online multiplayer games?  I'm new to this and looking to learn, but would like some input on what is better.",Todor Gishin,,status,,2017-04-13 23:06:56,2,3,0,2,0,0,0,0,0
+759985267390294_1572357459486400,"If you are between the ages of 13 to 19 and would like to participate in Teen Hackathon during the summer months, please email Rauhmel@WHOmentors.com
+
+Be sure to indicate which school you attend, what type of laptop you use, identify the type of mobile device you use, and indicate when your school will let out for the summer. For example, the last day of school for San Francisco Unified School District (SFUSD) is Friday, May 26, 2017.
+
+https://www.youtube.com/watch?v=son5gcDHo0I
+
+NOTE: No coding experience required. In contrast to other summer camps, you will ""train backwards"" from re-skinning working apps to understanding complete theory. Therefore, you are expected to have more than one application created.",Rauhmel Fox,Wake Up! Join Teen Hackathon (teenhackathon.com),video,https://www.youtube.com/watch?v=son5gcDHo0I,2017-04-14 22:49:11,2,0,0,1,1,0,0,0,0
+759985267390294_1572273482828131,"Let's use a Variational Autoencoder to generate images! This generative model fascinates me, especially the reparameterization trick that lets us backpropagate despite it having stochastic nodes. ",Siraj Raval,How to Generate Images - Intro to Deep Learning #14,video,https://www.youtube.com/watch?v=3-UDwk1U77s,2017-04-14 21:09:26,6,0,0,6,0,0,0,0,0
+759985267390294_1570698056319007,"Apart from .com and .io domains, which other domain extensions are great?",Hype Emmanuel Mcee,,status,,2017-04-13 15:15:11,3,27,0,3,0,0,0,0,0
+759985267390294_1572207666168046,"Apple Pay Now Supports Instant Donations to Nonprofits! 
+
+https://www.apple.com/newsroom/2016/11/a-touch-of-giving-with-apple-pay.html
+
+In response, I'm planning a miniature Community Service Hackathon for about 30 volunteers to create iOS mobile applications (including games) and websites integrated with Apple Pay for Donations.
+
+If you'd like to be invited, please email rauhmel@whomentors.com
+
+Be sure to indicate if you can be available to attend a single event on May 23, 2017 from 8AM to 6PM.  You can suggest another weekday if this one doesn't work for you.
+
+The location will be Capital One Café on 101 Post Street and Kearny in San Francisco, California.
+
+NOTE: Swift 3 (Xcode 8.3.1) and/or Javascript will be used.  No experience necessary.
+
+SMS text 415-373-6767 with any specific questions.",Rauhmel Fox,,photo,https://www.facebook.com/photo.php?fbid=1456020861116881&set=gm.1572207666168046&type=3,2017-04-14 19:36:37,7,1,0,7,0,0,0,0,0
+759985267390294_1572194786169334,Thoughts? ,An-Hoà Nguyễn,Electron is flash for the desktop,link,https://josephg.com/blog/electron-is-flash-for-the-desktop/,2017-04-14 19:21:13,6,0,0,6,0,0,0,0,0
+759985267390294_1571037112951768,Any cool ideas for summer side projects during an internship?,Harry Chen,,status,,2017-04-13 21:47:39,18,10,1,18,0,0,0,0,0
+759985267390294_1572088646179948,"How can I add an image where the user clicked. In other words, if I click somewhere within the body it should add a small image on the place I clicked. Can someone help? (Javascript)",Yusuf Bagha,,status,,2017-04-14 17:04:51,1,2,0,1,0,0,0,0,0
+759985267390294_1572099082845571,"Jeff Atwood is looking to hire a Ruby/Rails Dev to test discourse. Could be a nice summer Internship project. 🤓🤔
+",Nyah Watad Check,Jeff Atwood on Twitter,link,https://twitter.com/codinghorror/status/852996686083379200,2017-04-14 17:17:16,1,0,0,1,0,0,0,0,0
+759985267390294_1571979532857526,"Hey guys! I've finally finished my first bigger project so i want to share it with you. It's iOS app I've made from scratch, designed for pet owners :) If you have an iPhone i would love to hear some feedback from you, and generally some tips about marketing/promoting it to the world! :)
+
+https://www.facebook.com/petdayapp
+
+And I've also got the website (landing page) http://petdayapp.com/",Никола Милић,Pet Day,link,https://www.facebook.com/petdayapp/,2017-04-14 14:49:44,3,1,0,3,0,0,0,0,0
+759985267390294_1570681722987307,"(off-topic) HELP PLEASE
+How to print white on a white A4?
+I want to have a white A4 page turnt into full black with a printer but leaving the places out where the text is so you effectively get white text. Can Someone help me ASAP. I can't find it on the googlez already tried. :(",Rowen Hendrikson,,status,,2017-04-13 14:48:04,2,6,0,0,0,0,2,0,0
+759985267390294_1572041156184697,"I know that apps published in Apple App store must use Apple's in-app processor. How about Google Play Store?
+
+What if I want to implement my own stripe payment interface? is that allowed?
+
+Everything i'm reading in this page seems to suggest I am, but still dunno.",Joram Clervius,Google Play,link,https://play.google.com/about/developer-distribution-agreement.html,2017-04-14 16:07:55,0,0,0,0,0,0,0,0,0
+759985267390294_1571675129554633,Looking for some free good software to run on my mac but has too recover lost files due to reinstall/format on windows partion its only about 3 gb of photos!!!! Any thing would help. Thanks,Joel R Guilbeau,,status,,2017-04-14 10:30:43,0,1,0,0,0,0,0,0,0
+759985267390294_1568920836496729,,Rohit Bhatia,Google now lets you submit URLs for indexing straight from Search,link,https://thenextweb.com/google/2017/04/10/google-index-url-submission-search/?utm_content=buffer75c39&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer#.tnw_5NAtoHD2,2017-04-12 03:17:22,196,6,11,176,1,19,0,0,0
+759985267390294_1571966172858862,,Ravi Vadrevu,,status,,2017-04-14 14:35:18,1,0,0,1,0,0,0,0,0
+759985267390294_1571955639526582,"So the NSA tools released by Shadow Brokers on Friday are available here (decrypted) for anyone to look at https://github.com/x0rz/EQGRP_Lost_in_Translation
+
+I thought I should share because it took me some time to find this link. :)
+
+If you want to follow the developments around this leak you should follow @hackerfantastic https://twitter.com/hackerfantastic",Muhammad Yasoob Ullah Khalid,x0rz/EQGRP_Lost_in_Translation,link,https://github.com/x0rz/EQGRP_Lost_in_Translation,2017-04-14 14:23:59,1,0,0,1,0,0,0,0,0
+759985267390294_1570697526319060,"Apart from .com and .io domains, which other domain extensions are great?",Hype Emmanuel Mcee,,status,,2017-04-13 15:14:13,1,8,0,1,0,0,0,0,0
+759985267390294_1571884332867046,"Here's another product of QuickDraw data: doodles! These doodles are very cute and we should be afraid lol
+
+",Evan Bindz,Google's AI has learned how to draw by looking at your doodles,link,http://www.theverge.com/2017/4/13/15284448/google-ai-draw-doodles-sketch-rnn,2017-04-14 13:16:10,15,0,4,14,1,0,0,0,0
+759985267390294_1570533356335477,"Just put together, with Lenny Khazan, what we think is one of the most comprehensive yet simple/fun tutorial on recurrent neural networks/LSTMs on the Internet:
+
+",Rohan Kapur,Rohan & Lenny #3: Recurrent Neural Networks – A Year of Artificial Intelligence,link,https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b,2017-04-13 12:01:31,22,2,4,19,3,0,0,0,0
+759985267390294_1570656776323135,Hustlin' like a pro.,Sadok Cerv Rabadan,,status,,2017-04-13 14:11:10,106,5,0,85,3,2,16,0,0
+759985267390294_1570674572988022,Anyone follow the 2+2 program for Penn state for CE (Erie -> UP in particular)? have a few questions on courses and all,Ali Malik,,status,,2017-04-13 14:36:54,0,2,0,0,0,0,0,0,0
+759985267390294_1571072659614880,"Just set up my new Raspberry Pi. What packages do you recommend I install (mostly python and website work)?
+Edit: I am using Rapsbian (Debian)",Saksham Badyal,,status,,2017-04-13 22:34:54,1,3,0,1,0,0,0,0,0
+759985267390294_1570270036361809,"Hey guys! I have recently taken my first crack at a blog post and I was wondering if I could get some feedback on both my view and my writing. Sorry if this is the wrong place to post.
+",Charlie Thomas,Charles Attwood Thomas | Developer,link,http://attwoodthomas.me/blog/view/3,2017-04-13 07:13:37,1,3,0,1,0,0,0,0,0
+759985267390294_1527022460686567,"I need to install an operating system on my server, but my server 1and1 said I can't do that on shared hosting. How can I get around this and do it on shared hosting? What we want is to be able to have a computer that is accessible through a browser on a url. Therefore, the computer is usable through any device with an internet connection.",Joe McDonald,,status,,2017-03-07 20:12:54,0,23,0,0,0,0,0,0,0
+759985267390294_1570882279633918,"{serious}
+Anyone here working for Facebook?
+
+Have a potential client (family friend) who contacted me about their site being blocked by facebook. They had not renewed their domain and had a fair amount of traffic to the site. They ended up getting their domain back but now facebook/insta continually blocks for being spam. I suspect the temporary owner had backlinked/send people around and it got reported.
+
+All I've found is an automated response to report it, but have had no luck so far to get it unblocked.
+
+Any help would be nice! Thanks guys!",Tyler Hall,,status,,2017-04-13 19:07:01,1,2,0,1,0,0,0,0,0
+759985267390294_1569586639763482,"Hello! 
+How difficult is it to find software jobs outside of the US right after graduation? Any success stories?",Morgan Monzingo,,status,,2017-04-12 15:14:21,4,2,0,4,0,0,0,0,0
+759985267390294_1571143539607792,Anybody catch the whole YouTube Kerfuffle a handful of hours ago?,Matthew Dunphy,,status,,2017-04-14 00:21:47,0,4,0,0,0,0,0,0,0
+759985267390294_1569983606390452,How to deal with client that mentions they only have a PC after the iOS app has been built? (Haven't been paid yet),Tolga Beser,,status,,2017-04-13 00:04:54,6,4,0,0,0,1,0,5,0
+759985267390294_1569895519732594,"Looking for some advise here.
+
+Whenever I build an application using Python/JS etc, it mostly comprises of googling functions/semantics/instances, going to stack-overflow again and again to see how that library works, occasionally copy-pasting jQuery snippets etc, you get the idea.
+
+I want to know if this is a bad thing in the longer run? I believe that nobody writes 100 lines of code (non-trivial applications) perfectly without googling even once. I'd like to know what the software engineers think of this.",Jack Reacher,,status,,2017-04-12 22:12:39,6,9,0,6,0,0,0,0,0
+759985267390294_1569589339763212,Anyone here pro in SQL can help me out? :3,Loc Tran,,status,,2017-04-12 15:18:30,1,4,0,1,0,0,0,0,0
+759985267390294_1569838369738309,"Especially in this group and other big groups like it, I hate it when I am typing a seemingly common word like ""there"" or ""perfect"" and I end up accidentally tagging someone that i've never met or interacted with in any way.",Hamza Khan,,status,,2017-04-12 20:44:24,4,2,0,3,0,0,1,0,0
+759985267390294_1568390753216404,"Hey Friends! If I wanted to send passwords securely (without forcing the receiver to download a program), what would be the best option?",Dennis Yu,,status,,2017-04-11 15:43:05,1,17,0,0,0,0,1,0,0
+759985267390294_1568442836544529,"When somebody wants your help building an app and
+
+1.) They have no CS background (forgivable)
+
+2.) They have no business background 
+
+3.) They can't explain what their app actually does
+
+4.) They can't identify their target audience
+
+5.) They have no money, ""but I'm telling you, it's gonna work, man, this is our ticket out of the rat race!""",Christopher Jones,,status,,2017-04-11 16:53:45,169,30,5,119,1,0,44,5,0
+759985267390294_1570668966321916,"Not always. Not everywhere. Stories. 
+
+""No one is using Facebook stories, so it turned your friends into ghosts"" ~Verge",Rohit Bhatia,"No one is using Facebook stories, so it turned your friends into ghosts",link,http://www.theverge.com/2017/4/5/15189148/facebook-stories-friends-ghosts-news-feed-snapchat,2017-04-13 14:28:22,65,8,0,36,2,0,27,0,0
+759985267390294_1570992512956228,Anybody here have experience with the Google Charts API? I'm trying to figure out if you can drill down in them or not otherwise does anyone have a suggestion on how to replicate such behavior? Maybe open the next layer in another window?,Tony Tran,,status,,2017-04-13 21:07:15,0,0,0,0,0,0,0,0,0
+759985267390294_1569480523107427,,Leo Gonsalves,Techarena51,link,http://www.theregister.co.uk/2017/04/12/prisoners_built_computer_connected_to_states_network/?utm_source=FB-Techarena51.com,2017-04-12 13:11:29,61,4,0,46,1,8,6,0,0
+759985267390294_1569842913071188,Guys anyone is here who has already worked on Arduino or Raspberry Pi device? I need help of you;,Krishna Sharma,,status,,2017-04-12 20:51:38,2,4,0,2,0,0,0,0,0
+759985267390294_1569993116389501,"Okay so i woke up this morning and my iphone deleted my text messages, call log, contacts and all my photos are gone too. Help?",Andrew Toews,,status,,2017-04-13 00:20:31,3,14,0,2,0,1,0,0,0
+759985267390294_1570505173004962,"Hey guys, I'm a Front-End developer trying to learn some UI/UX skills. I have only used Ionic till now as I knew Angular. I'd like to ask some tools/programs that UI/UX designers use in everyday life e.g. Sketch, PS etc. For instance, is there any software that people use to render an image of their app's view in a phone as I have seen that in many portfolio websites.",Jack Reacher,,status,,2017-04-13 11:30:26,2,1,0,2,0,0,0,0,0
+759985267390294_1569677436421069,Next hackathon project,Rolando Cruz,Hacker News,link,https://www.twilio.com/blog/2017/04/wedding-at-scale-how-i-used-twilio-python-and-google-to-automate-my-wedding.html,2017-04-12 17:09:37,230,12,9,181,15,3,30,1,0
+759985267390294_1570847622970717,"Hey guys, if you're in the LA area and are interested in VR/AR/MR, check this out!! They are showcasing tons of amazing VR projects, have keynotes from the CEO of Unity and the co-producer of Rick and Morty! Also, I'll be demoing my VR project, DIVR Edu!",Nathan Kong,VRLA Expo 2017,event,https://www.facebook.com/events/716197035195595/,2017-04-13 18:17:17,1,0,0,1,0,0,0,0,0
+759985267390294_1568363479885798,"Hey, everyone! I'm an organizer for HackCWRU 2017 and I'm putting together a list of Hacker Resources for our attendees. We're doing a track system this year: Health, Maker, Civic, FinTech, Open Source, and Art. If anyone has any links they think would make a good resource I'd appreciate it if you'd share it with me. Thanks!",David Fann,,status,,2017-04-11 15:06:08,3,1,0,3,0,0,0,0,0
+759985267390294_1570664726322340,"Hey hackers. I'm one of the cofounders of VoiceOps (voiceops.com), AI platform for analyzing enterprise voice conversations, and wanted to share that we're currently answering Q's on HN (news.ycombinator.com). Would love to chat about anything ML/voice/enterprise related.",Daria Rose Ev,,status,,2017-04-13 14:23:10,16,3,0,16,0,0,0,0,0
+759985267390294_1570684399653706,"Hi everyone,
+A group of developers and I are looking into developing an app to replace the college rideshare facebook pages. Please help us out by taking this short survey! 🙂 Any other feedback is welcome!
+
+",Ryan Yue,Rideshare App Survey,link,https://goo.gl/7f6LRP,2017-04-13 14:52:05,3,0,0,3,0,0,0,0,0
+759985267390294_1570555422999937,I packaged up figlet and lolcat to make it easier to use. Github --> https://github.com/jayliew/baller-af  https://media.giphy.com/media/26gR0AU7SPRM0n8Va/giphy.gif,Joe Liew,media.giphy.com,link,https://media.giphy.com/media/26gR0AU7SPRM0n8Va/giphy.gif,2017-04-13 12:19:47,3,3,0,3,0,0,0,0,0
+759985267390294_1570660976322715,"Hey hackers,
+
+Wrote up the next tutorial in an Ethereum blockchain development series on how to configure an Ethereum node using Go-Ethereum on AWS. This one walks through how to initiate your genesis block and track chaindata.",Michael Gord,Use Go-Ethereum to Setup an Ethereum Blockchain on AWS - Part 2 | MLG Blockchain,link,https://www.mlgblockchain.com/setup-ethereum-on-aws-2.html,2017-04-13 14:17:46,5,0,0,5,0,0,0,0,0
+759985267390294_1569543389767807,"I remember a while back seeing a nerual network that was trained on a specific dataset and then ran in ""reverse"" (so it was given the output and told to make the input) essentially making a ""creative"" network. I don't remember where I saw it though or what to even look up to find it again.. Has anyone seen this? Is there a paper on this topic?",Eddie Penta,,status,,2017-04-12 14:31:18,5,5,0,4,0,1,0,0,0
+759985267390294_1569900446398768,"JS help
+    var axisX = {};
+    axisX += 1;
+    axisX += 2;
+    console.log(axisX);
+    console.log(axisX[15]);
+    console.log(axisX[16]);
+
+Why does it output 1 and 2 at position 15 and 16?",Ali Malik,,status,,2017-04-12 22:21:20,1,5,0,1,0,0,0,0,0
+759985267390294_1568546546534158,"Hey everyone! 
+
+I often get asked how I tricked out my terminal, so I thought I'd write a blog post on it.
+
+(TL;DR -> Oh-My-Zsh is amazing)
+
+",Ronak Shah,Making Terminal Great Again,link,https://blog.ronakshah.net/Making-Terminal-Great-Again/,2017-04-11 19:20:57,16,3,0,15,1,0,0,0,0
+759985267390294_1570636439658502,Useful to those of you raising...,Jay Zalowitz,Seed Fundraising — How to Handle an Angel Investor Meeting,link,https://hackernoon.com/seed-fundraising-how-to-handle-an-angel-investor-meeting-a1110cf2384b,2017-04-13 13:44:17,1,0,0,1,0,0,0,0,0
+759985267390294_1570622682993211,"Why hadoop is named hadoop:
+",Jessie Salas,Doug Cutting: The Name of Hadoop - Intro to Hadoop and MapReduce,video,https://www.youtube.com/watch?v=irK7xHUmkUA,2017-04-13 13:27:43,1,0,0,1,0,0,0,0,0
+759985267390294_1570004763055003,Hey Hackers! I just wrote a medium post about my first experience as a hackathon organizer! Check it out! https://medium.com/@xTEddie/from-hacker-to-organizer-44fd61a86150 :),Edward Tran,From Hacker to Organizer – Edward Tran – Medium,link,https://medium.com/@xTEddie/from-hacker-to-organizer-44fd61a86150,2017-04-13 00:37:12,10,1,0,10,0,0,0,0,0
+759985267390294_1569262839795862,"When people here talk about personal blogs/websites, are they talking about profortlio (showcase, resume, etc) and technical article for their professional gain? Or just literally websites for themselves​, or a blog of personal thoughts and reflections?
+
+I'm wondering because I'm not sure what kind of contents is considered ""normal"" for a ""personal website/blog"". Do recruiters actually browse these kind of websites? Thanks.",Jane Manchun Wong,,status,,2017-04-12 09:56:54,14,6,0,14,0,0,0,0,0
+759985267390294_1570613716327441,"HackerNest and the NCSC have over $30K+ in Cash & Prizes to give away!!!
+- Trip for your team to demo at the NCSC's Court Technology - Conference in Salt Lake City, September 12-14, 2017
+- Dinner with the Chief Justice of the New Jersey Supreme Court
+- Lunch with the New Jersey Courts Administrator and Chief Information Officer
+- Invaluable mentorship and industry connections
+Enter now at courthack.org
+ http://courthack.org",Annika Thurlow,CourtHack: Making justice fair and accessible for all,link,http://courthack.org/,2017-04-13 13:17:13,3,0,0,3,0,0,0,0,0
+759985267390294_1570426003012879,"Any examples of a contract a ""loaner"" should sign when loaning hardware? Talking about projects longer than just a weekend.",Joakim Isoaho,,status,,2017-04-13 10:22:55,3,1,0,3,0,0,0,0,0
+759985267390294_1560259157362897,"We're so excited!!
+Anyone want to help test a A.I secret new beta?
+m.me/mebabybot",Nofar Albarak,,status,,2017-04-05 07:44:20,7,5,0,6,1,0,0,0,0
+759985267390294_1570491373006342,"[serious]
+What would you recommend I read, watch, or develop in order to be qualified for an entry/junior level android developer position?",Juan Romo,,status,,2017-04-13 11:16:53,2,0,0,2,0,0,0,0,0
+759985267390294_1570152109706935,"Just google ""Star Trek: The Next Generation"" and read the description. Is that some indexing error or is Google Drunk :P",Lovekesh Garg,,photo,https://www.facebook.com/photo.php?fbid=1876007329284098&set=gm.1570152109706935&type=3,2017-04-13 04:10:35,5,4,0,5,0,0,0,0,0
+759985267390294_1570323036356509,"[serious] I currently use the MacOS Terminal app, but I know that there are many people who prefer iTerm 2 or another application. What is your go-to app, and why did you choose it over the default one?",Andrew Donnell,,status,,2017-04-13 08:23:59,0,1,0,0,0,0,0,0,0
+759985267390294_1570439906344822,,Adam McNeilly,WXYZ-TV Channel 7,video,https://www.facebook.com/wxyzdetroit/videos/10154342872726135/,2017-04-13 10:37:43,7,0,0,5,2,0,0,0,0
+759985267390294_1570302279691918,"This seems to be a harder problem than it sounds. I have hundreds of PDF files, each file containing more than one page. What I want to do is programmatically REDACT (not extract) a residential home address.
+
+Does anyone have any idea how? Caveat: A straight up string search in PDF doesn't always work (because text can be an encoded byte stream or bitmap). Possible workaround: programmatically converting to image, then cutting out the address by hand?",Joe Liew,,status,,2017-04-13 08:03:38,0,3,0,0,0,0,0,0,0
+759985267390294_1569664416422371,Hey does anyone ever end up bringing their own hardware to hackathons?,Robert Rose,,status,,2017-04-12 16:45:57,7,13,0,7,0,0,0,0,0
+759985267390294_1569549296433883,"Hi Everyone! I'm very interested in getting into programming and want some opinions on the best point of entry. 
+
+I am interested in learning some programming so that I can apply it to AI, data science, vr/ar, etc. I'm not interested in web or application development. 
+
+Any recommendations on first languages to learn and where to access classes?
+
+Thanks!",Jacob Roscoe,,status,,2017-04-12 14:38:45,2,5,0,2,0,0,0,0,0
+759985267390294_1569589593096520,"[serious]
+can we host web app build on react in godaddy?",Saif Rahman,,status,,2017-04-12 15:18:49,2,10,0,2,0,0,0,0,0
+759985267390294_1570151896373623,"[Help] Folks. What dates do you think is the best in the month of July to host online hackathons in these colleges? We are looking for coordinators from the mentioned colleges as well. 
+
+P.S. For details of Indian region which completed on March 11 - dos.lc/codesparta11",Mohammed Rafy,,photo,https://www.facebook.com/photo.php?fbid=1343239219097585&set=gm.1570151896373623&type=3,2017-04-13 04:09:59,0,2,0,0,0,0,0,0,0
+759985267390294_1570086033046876,"Hey guys,
+
+This question is for anyone who can answer: Is there a difference between a stupid sort versus bogo sort algorithm? I am trying to understand their differences and I can not find anything around Dr. Google. It seems that my professor is disagreeing with me that stupid sort is completely different than Bogo sort.
+
+What are your thoughts? Is there an actual difference? If so, explain it to me. I appreciate it a lot.
+
+-Z",Zeid Andrés Tisnés,,status,,2017-04-13 02:25:37,1,2,0,1,0,0,0,0,0
+759985267390294_1570285149693631,This new AutoDraw from Google is really cool. I could see teams leveraging it in a number of different ways during hackathons.,Anthony Pompliano,Mike Rogers,video,https://www.facebook.com/ChairmanMikeRogers/videos/1519086384782427/,2017-04-13 07:36:22,2,0,0,2,0,0,0,0,0
+759985267390294_1570284333027046,"GO-JEK in association with HackerEarth is inviting all Women Developers for SHE-HACK!
+GO-JEK is Indonesia's largest startup, and is currently the fastest growing startup in South and South East Asia, growing 900X in the 18 months since launch.
+
+She-Hack by GO-JEK is the platform to engage with the best minds out there. What's even better are the prizes you can win! Grab yourself a Hyundai Grand i10, a Vespa Motorbike or an iPhone 7?
+
+Register now!",Vipin Singh,SHE-HACK on HackerEarth,link,https://shehack.hackerearth.com/,2017-04-13 07:35:00,1,0,1,1,0,0,0,0,0
+759985267390294_1570259429696203,Check out what our students have built to hack entertainment!,Kahjunz Koon,NEXT Academy,video,https://www.facebook.com/getschooledbynextacademy/videos/1881469092131033/,2017-04-13 06:59:22,2,0,0,2,0,0,0,0,0
+759985267390294_1568911769830969,"Need some help figuring out pricing at Airbnb. 
+
+One of the homes says $150 a night. 
+
+If I'm going for Fri, sat, sun. I arrive Friday morning, and I leave Sunday afternoon, am I paying for 2 nights only? The morning of the third day isn't​ counted?
+
+Or am I paying for 3 nights?
+
+Thanks!",Hamza Khan,,status,,2017-04-12 03:00:57,1,3,0,1,0,0,0,0,0
+759985267390294_1569747606414052,"[Serius] Whats the best way to listen/receive data from a webpage using Java?
+Without using loops or port forwarding.",Brad Eagle,,status,,2017-04-12 18:31:52,1,4,0,1,0,0,0,0,0
+759985267390294_1569674119754734,I remember seeing Parihug at MHacks 6! I love seeing hackathon projects turn into a reality. Good luck to the entire team!,Tristan Wiley,MHacks,link,https://www.kickstarter.com/projects/parihug/parihug-hug-loved-ones-from-anywhere-in-the-world,2017-04-12 17:03:30,43,1,0,35,7,1,0,0,0
+759985267390294_1566882403367239,"Which one of you did this? 
+
+",Adam Allard,Someone hacked every tornado siren in Dallas. It was loud.,link,https://www.google.com/amp/s/www.washingtonpost.com/amphtml/news/the-intersect/wp/2017/04/09/someone-hacked-every-tornado-siren-in-dallas-it-was-loud/,2017-04-10 10:51:31,412,25,20,274,6,19,109,2,2
+759985267390294_1568532086535604,That background music tho,Louise Lai,"People's Daily, China",video,https://www.facebook.com/PeoplesDaily/videos/1494112020640610/,2017-04-11 19:06:44,185,18,17,158,9,15,3,0,0
+759985267390294_1568249856563827,,Alejandro Alonso,Google,video,https://www.facebook.com/Google/videos/10155212940917838/,2017-04-11 12:52:37,386,16,35,323,19,43,1,0,0
+759985267390294_1569826603072819,"Will I be seeing any of you at DreamHack Austin 2017?
+It's on april 28-30",Hamza Khan,,status,,2017-04-12 20:34:32,1,5,0,0,0,1,0,0,0
+759985267390294_1569799149742231,https://www.youtube.com/watch?v=leFuF-zoVzA,Sambhav Dhawan,How I Made My Own iPhone - in China,video,https://www.youtube.com/watch?v=leFuF-zoVzA,2017-04-12 19:53:37,3,0,0,3,0,0,0,0,0
+759985267390294_1568473873208092,"Is this real?
+https://www.mturk.com/mturk/welcome",Md Malsi,Vocativ,video,https://www.facebook.com/Vocativ/videos/1542723392406557/,2017-04-11 17:33:17,15,15,1,11,0,3,1,0,0
+759985267390294_1569792549742891,"Hi fellow Hackathon Hackers!
+
+I'm organizing a collegiate social impact hackathon called SiliconHacks in Fremont, California on May 6-7th (http://www.siliconhacks.com/). 
+
+If you're a tech professional in Silicon Valley/SF Bay Area and would like to share your valuable insight at our opening or closing ceremony and/or judge our innovative projects, please comment below or message me! :) Both technical and business people are welcome! If you have any coworkers, friends, or other contacts that would be potentially interested, please let them know.",Dhanush Patel,SiliconHacks 2017,link,https://lnkd.in/gzqkQiN,2017-04-12 19:41:12,12,0,0,10,0,0,0,2,0
+759985267390294_1568657283189751,"Hey guys! Our iOS app just got rejected from the App Store submission due to crashing on iPad under IPv6. We are unable to reproduce the crash, so we want to symbolicate the crash logs provided by the App Store review to see what had happened. 
+
+Now we have the app archive uploaded to the App Store and the downloaded dSYM debug symbols that Apple generated. But it seems that the UUID of the archive and those in the crash logs doesn't match so it's not possible do symbolication.
+
+Anyone meets this problem before, or any recommended solution? I am pretty sure the app archive used now is exactly the same one that was submitted to the App Store. Thanks!",Yingbo Wang,,status,,2017-04-11 21:22:56,5,4,0,5,0,0,0,0,0
+759985267390294_1569505733104906,"Does anyone here have experience with image processing, point clouds, and 3d mesh construction in Python? I posted on Stack Overflow for a particular program I'm trying to write, but something tells me it's a bit too specific to get a reply in a reasonable time frame. Here's the post, appreciate any help I can get! ",Dean Dijour,Brain tumor reconstruction as 3D mesh via 2D MRI scans in Python,link,http://stackoverflow.com/questions/43376472/brain-tumor-reconstruction-as-3d-mesh-via-2d-mri-scans-in-python,2017-04-12 13:46:15,5,4,0,5,0,0,0,0,0
+759985267390294_1569732056415607,"There's a hackathon coming up and I already know what project I want to work on. But my friends want a business/use case, which is reasonable since we'd have to defend it in front of the judges. I know people typically take some case/problem and then create a project for that case, anyone have any idea on how to find / identify a problem based on a project (broad I know). Where would you start? I'm thinking about the audience,  and general applications of the techniques used. 
+
+Also I built my project idea based on the APIs that would be available, and I did have a use case in mind but I'm not too sure how to refine it so I'm thinking about finding another case, any tips?",Tony Tran,,status,,2017-04-12 18:14:24,0,1,0,0,0,0,0,0,0
+759985267390294_1569757219746424,New live stream! Policy gradients outperform DeepMind's DQN (which was the reason google bought them) so it's a strategy worth looking into. We'll use it to solve Pong  ,Siraj Raval,How to Beat Pong Using Policy Gradients,video,https://www.youtube.com/watch?v=PDbXPBwOavc,2017-04-12 18:43:57,3,0,1,3,0,0,0,0,0
+759985267390294_1569260403129439,"Are there any tools for visualizing the ""connectome"" of Wikipedia entries?",Jacob Werbin,,status,,2017-04-12 09:53:59,0,1,0,0,0,0,0,0,0
+759985267390294_1568385533216926,Amazing!,Ananay Arora,Google,video,https://www.facebook.com/Google/videos/10155212940917838/,2017-04-11 15:36:18,192,2,38,154,19,18,1,0,0
+759985267390294_1569701096418703,Anyone have experience with the Oracle programmer certificates and training modules in Java? Were they helpful in learning Java? Did having the certificate open any opportunities for you?,David Herring,,status,,2017-04-12 17:33:15,0,0,0,0,0,0,0,0,0
+759985267390294_1568484999873646,Are you guys using IFTTT? do you have some insights? share your setup! 😈,Gal Schlezinger,IFTTT Ideas for Software Development – Gal Schlezinger – Medium,link,https://medium.com/@galstar/ifttt-ideas-for-software-development-fcae4f1f580e,2017-04-11 17:50:38,1,4,0,1,0,0,0,0,0
+759985267390294_1568440033211476,anyone here good with graphic design skills? as friend of mine has a startup and is looking for great talent.,Shreyas Moudgalya,,status,,2017-04-11 16:49:04,0,1,0,0,0,0,0,0,0
+759985267390294_1568258459896300,today is Windows Vista's end of life day for updates/patches. press F to pay respects.,Вениамин Ройтеньберг,,status,,2017-04-11 13:02:54,20,5,0,11,0,0,0,9,0
+759985267390294_1568746773180802,"Attention Hackathon Organizers: 
+
+Does this seem like a good t-shirt distribution for an average Hackathon?
+
+S:20%, M:50%, L:20%, XL:5%, XXL: 5%
+
+Currently ordering shirts for herScript Hacks '17.",Anita Garcia,herScript Hacks 2017,link,http://www.herscripthacks17.eventbrite.com/,2017-04-11 23:14:02,3,6,1,3,0,0,0,0,0
+759985267390294_1569608263094653,"Hi guys! You might remember me from the Facebook Bot post. I just wrote a complete tutorial on how anyone can make a Facebook + Reddit bot in Python. It included complete code and explanation. 
+
+It is a Meme, Motivation, Jokes and Shower Thoughts facebook messenger bot which serves you fresh posts whenever you ask it to. 
+
+I hope you guys find the tutorial useful :) 
+
+",Muhammad Yasoob Ullah Khalid,Making a Reddit + Facebook Messenger Bot,link,https://pythontips.com/2017/04/13/making-a-reddit-facebook-messenger-bot/,2017-04-12 15:43:55,67,5,4,59,8,0,0,0,0
+759985267390294_1569619906426822,"Do you have an upcoming hackathon? Want to get more attendees? List it on #MakeSchool's Hackathon Directory! We send it out to over 80K people every two weeks.
+
+www.makeschool.com/hackathons
+
+Feel free to share this with your friends!",Evan Hynes,Upcoming Events – Make School,link,http://www.makeschool.com/hackathons,2017-04-12 15:56:44,1,0,0,1,0,0,0,0,0
+759985267390294_1569501693105310,"Hey guys and ladies? i have the web template i want to push to my site. but befor that, i want to set the div boxes in the body to have a draggable feature, like that of Twitter. how can i achieve this?
+
+EDIT: the interactive draggable feature will be disabled by default.",Hype Emmanuel Mcee,,status,,2017-04-12 13:39:17,0,3,0,0,0,0,0,0,0
+759985267390294_1566073396781473,"Hi guys! I haven't posted in this group a lot. I have basically been a lurker mostly. I just wanted to share something i made pretty recently. It is a Meme, Motivation, Jokes and Shower Thoughts facebook messenger bot. It is not currently approved by facebook (i haven't applied for approval because i dont have time and a website yet. Anybody wanna help? You can add it to your CV!) If you guys want to give it a try just message me or comment below this post. I will add you guys to the testers group and then you just have to send a message to this page (Me) + (my friend) = world's top comedians XD and things should start working.
+
+If you have any questions please let me know. The memes, motivational posts, jokes and shower thoughts are taken from reddit. Some preprocessing is done on the server so that you dont receive any post twice.
+
+I hope you guys like it! <3
+
+P.S: don't blame me if you spend countless hours laughing at the useless jokes it throws at you.",Muhammad Yasoob Ullah Khalid,Photos from Muhammad Yasoob Ullah Khalid's post,photo,https://www.facebook.com/photo.php?fbid=10212687517972776&set=gm.1566073396781473&type=3,2017-04-09 18:25:08,85,29,0,69,0,1,15,0,0
+759985267390294_1568407463214733,https://techcrunch.com/2017/02/09/what-software-engineers-are-making-around-the-world-right-now/,Iliad,What software engineers are making around the world right now,link,https://techcrunch.com/2017/02/09/what-software-engineers-are-making-around-the-world-right-now/,2017-04-11 16:07:04,89,16,10,86,2,1,0,0,0
+759985267390294_1569484603107019,"We built a robot to test the durability of our new short charging cables, blogged it:
+",Andrew J. Chapin Jr.,Let's Break Some Cables – Tiny Cables – Medium,link,https://medium.com/tiny-cables/lets-break-some-short-cables-arduino-robot-testing-c70206f1ab56,2017-04-12 13:13:43,1,0,0,1,0,0,0,0,0
+759985267390294_1568792649842881,"Hey friends - compiling a doc of resources for our hackathon and wanted to solicit your help. If you know of things (APIs, frameworks, tutorials) that are useful in the hackathon setting (because they are robust, easy to learn, etc), please drop it in the comments. If you happen to be at HackCWRU we'll give you a shoutout by name. 
+
+hack.cwru.edu come thru",Yidi Huang,,status,,2017-04-12 00:17:39,7,3,0,7,0,0,0,0,0
+759985267390294_1568626473192832,"Made this chrome extension today because I always have 10+ tabs open and wanted a way to save everything without bookmarking
+
+https://chrome.google.com/webstore/detail/workspaces/eehocaoejekpmecmfecdkpohdkgkmoee",Md Malsi,,photo,https://www.facebook.com/photo.php?fbid=344033729331958&set=gm.1568626473192832&type=3,2017-04-11 20:51:55,81,18,0,69,10,2,0,0,0
+759985267390294_1568241149898031,Bootstrap or WordPress for UI... Simple answers guys,Osita Chiemeke,,status,,2017-04-11 12:39:41,8,19,0,7,0,0,1,0,0
+759985267390294_1568829126505900,"Has anyone ever downloaded their facebook data completely? Does anyone know how to read the files without completely crashing your browser? 
+
+I have the htm file that has allllllll my messages ever on this account and I wanna read it, however I'd like to convert it to a pdf, all the htm to pdf converters I've found have had problems because the file is so big 104mb. 
+
+does anyone have a solution here? I just wanna read them",Belle Salcedo,,status,,2017-04-12 01:09:47,5,14,0,5,0,0,0,0,0
+759985267390294_1568453849876761,Anyone else have this kind of experience with Electron apps? I always have to force close Slack because it's kind of a resource hog,Irfan Khan,Electron is flash for the desktop,link,https://josephg.com/blog/electron-is-flash-for-the-desktop/,2017-04-11 17:06:46,18,12,0,15,0,0,1,1,1
+759985267390294_1569359643119515,Hi HH! I know this may be a long shot but I wanted to invite anyone who will be a JP morgan TAP analyst to join group. Please share if you know anyone that is! https://www.facebook.com/groups/1415161311860372/,Lauren Mitchell,,status,,2017-04-12 11:37:32,1,0,0,1,0,0,0,0,0
+759985267390294_1568532309868915,"This was one of the most fun blog posts I've read in a long time:
+
+",Cassidy Williams,Typing the technical interview,link,https://aphyr.com/posts/342-typing-the-technical-interview,2017-04-11 19:07:03,52,2,5,38,9,2,3,0,0
+759985267390294_1568817919840354,"I want to test out web development. I still know some HTML and CSS from high school, and I imagine that they have changed much since then. What would you all suggest I try and learn to create some websites with backend functionality for fun? I am currently looking at Web2py and Django as Python is a language I use the most.",Jose Eddard Crimson,,status,,2017-04-12 00:50:04,0,4,0,0,0,0,0,0,0
+759985267390294_1568364683219011,"Anyone have an Instagram connection that could maybe help escalate a support ticket? I have a founder friend whose 50,000+ follower Instagram account got stolen and they can't get back in.",Jacob Torrence,,status,,2017-04-11 15:07:47,0,3,0,0,0,0,0,0,0
+759985267390294_1568248599897286,"Is anybody here bullish on Snap, Inc. Longterm?",Michael Dunworth,,status,,2017-04-11 12:50:47,4,10,0,4,0,0,0,0,0
+759985267390294_1565762766812536,"What are your thoughts on this? Are all social media platforms starting to look the same?
+
+source: recode",Shaban K. Samani,,photo,https://www.facebook.com/photo.php?fbid=10212514044667267&set=gm.1565762766812536&type=3,2017-04-09 13:39:12,51,11,0,45,2,0,2,1,1
+759985267390294_1568071586581654,which is your favorite theme in ZSH Terminal ??,Harsh Shah,,status,,2017-04-11 09:25:03,2,16,0,2,0,0,0,0,0
+759985267390294_1569063846482428,"I'm collecting information on what aspects people like to use social media for. A friend and I working on putting some features into our app and it's leading us down a bit of a rabbit hole in terms of what to implement. To help guide us out, I'm hoping your feedback can help give us a little bit of direction. It would take 2 minutes and be much appreciated!",Andrew Alsante,Social Media Survey by Ditto,link,https://goo.gl/forms/CHCtn5F8BuDaJILe2,2017-04-12 06:18:59,0,1,0,0,0,0,0,0,0
+759985267390294_1568333049888841,is there any startup working to overcome  car traffic jam other than Elon Musk's hyperloop concept?,Samuel Terefe,,status,,2017-04-11 14:29:58,0,5,0,0,0,0,0,0,0
+759985267390294_1568523836536429,"Have any of you used TypeScript before? Slack just migrated their code base from JS to TypeScript, and wrote about the experience, so I thought I'd ask.
+
+",Dave Voyles,TypeScript at Slack – Several People Are Coding,link,https://slack.engineering/typescript-at-slack-a81307fa288d,2017-04-11 18:54:00,21,9,1,21,0,0,0,0,0
+759985267390294_1568887839833362,"For anyone interested in VR with some time to kill, Berkeley club Upsync is hosting a 6-hour speed hackathon April 29th with HTC and Fulldive. Below is the blurb for and link to it.
+
+Want to meet with CEO of HTC Cher Wang, learn about cutting-edge VR product and win HTC VR headset with your graphic design/coding project? Come to 2017 Cal VRathon!
+SIGN UP here: https://www.eventbrite.com/e/2017-cal-vrathon-coding-and-graphic-design-competition-tickets-33420432413?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=esfb&utm-source=fbm&utm-term=eventcard
+
+2017 Cal VRathon: Coding and Graphic Design Competition aims to bring together the brightest minds from Berkeley, Stanford and many other bay area schools. With a goal to create more new ideas and at the same time give students immersive experience and education about Virtual Reality, we plan to organize speaker event and virtual reality hackathon in this one day event. This is a wonderful opportunity for attendees to meet with other VR engineers, companies, and learn about front-end VR software and hardware technology by interacting with leaders in the industry. Our mission is to give participants an immersive experience with virtual reality and at the same time help shape the future of virtual reality by providing the stage for talented student developers to create and innovate.
+
+Food and drinks will be provided****
+Website here: WEBSITE DOMAIN
+Time & Location: April 29th 1-6PM @ Bay View Room
+Website here: https://fulldive-hackathon.herokuapp.com/index.html# bit.ly/calvrhack
+
+Facebook event here for more info:
+https://www.facebook.com/events/810956779067725/?notif_t=plan_user_invited&notif_id=1491862093516353",Kelly Young,2017 Cal VRathon: Coding and Graphic Design Competition,link,https://www.eventbrite.com/e/2017-cal-vrathon-coding-and-graphic-design-competition-tickets-33420432413?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=esfb&utm-source=fbm&utm-term=eventcard,2017-04-12 02:27:31,4,0,0,4,0,0,0,0,0
+759985267390294_1568829559839190,"Hello !
+Is there any student who has done internship from Amazon, Hyderabad?
+Kindly let me know..I need ua help.
+TIA 😊",Sharvani Ramshetty,,status,,2017-04-12 01:10:32,5,0,0,5,0,0,0,0,0
+759985267390294_1568249709897175,"Upgrading from iOS 9.2.1 to 10.3. 
+What's new?",Dave Fontenot,,status,,2017-04-11 12:52:26,2,17,0,2,0,0,0,0,0
+759985267390294_1568431029879043,"HackCWRU brings together the brightest and most creative students to promote unrestricted technological innovation.
+
+Hosted in Cleveland at Case Western Reserve University, hundreds of students will spend 24 hours bringing their imagination into the real world. Work with peers and mentors to create projects in one of six diverse (optional) project tracks: arts, health, fintech, maker, civic, or open source.
+
+Come lend your expertise, and design creative solutions to pressing real-world problems. Registration is free, and the food will be top notch. Sign up: ",Вениамин Ройтеньберг,HackCWRU,link,http://hack.cwru.edu/,2017-04-11 16:36:23,10,5,0,10,0,0,0,0,0
+759985267390294_1567910363264443,"Hello, I was registering a domain for my portfolio but I saw that .com and .me is taken, what do you suggest me to buy?
+
+thanks a lot",Abdul Wahab Abrar,,status,,2017-04-11 06:30:28,5,26,0,2,2,0,0,1,0
+759985267390294_1565097680212378,"Ok, so people love the free software movement and commercialising the software is a bad thing, right? But what about the developers who invested their time in learning to build software and then actually built it? Does their time have no value? Like the people behind (say) Ubuntu. They devoted their time learning and building skills and then actually put their skills to build something and then, they give it away for free... why? for the betterment of the society like Batman, who risks his life so that Gotham is safe from criminals? I don't get it. How will software devs survive if they distribute their work for free?",Rahul Gupta,,status,,2017-04-09 02:00:28,37,40,2,26,1,0,9,1,0
+759985267390294_1567348429987303,,James Biswas,WIRED,link,http://bit.ly/2o07TWS,2017-04-10 19:38:32,15,2,0,15,0,0,0,0,0
+759985267390294_1568670029855143,I've just published part 10 of my React-Native tutorial with NodeJs. In this video I add Passport.js and Passport-JWT for the authentication part. I setup the project too to make facebook and google login for the next video. I also show how have babel to compile for production code.,Emanuel Quimper,React-Native & Node Tutorial - Build a Meetup app [Part: 10],video,https://www.youtube.com/attribution_link?a=D89soJdF7pM&u=%2Fwatch%3Fv%3DFFD4lKZCHS0%26feature%3Dshare,2017-04-11 21:37:42,4,0,0,4,0,0,0,0,0
+759985267390294_1567497116639101,What's your prefered languages/framework for your personal/portfolio site?,Anthony Attard,,status,,2017-04-10 22:49:45,2,12,0,0,2,0,0,0,0
+759985267390294_1568584906530322,"Hi everyone! I'd like to invite all Spyder IDE users (Linux and OSX specific) to test a new plugin that I've written, it allows to execute a local bash terminal inside Spyder. It's my first release, and I would like to have some feedback and comments. It is available through https://github.com/spyder-ide/spyder-terminal and also it is published on pip (Anaconda version soon)",Edgar Andrés Margffoy Tuay,spyder-ide/spyder-terminal,link,https://github.com/spyder-ide/spyder-terminal,2017-04-11 20:05:02,2,0,0,2,0,0,0,0,0
+759985267390294_1568496086539204,Seems pretty cool,Alvin Lin,Hacking News & Tutorials,link,https://fossbytes.com/pc-in-a-mouse/,2017-04-11 18:08:34,23,3,2,22,1,0,0,0,0
+759985267390294_1567574353298044,"Seeking people to study coding questions with me on Codility and HackerRank! I'm a senior software engineer who wants to sharpen my data structures/algorithms and prepare for Amazon-level software interviews. If you live in LA, even better; we could meet in person! Otherwise, I'm happy to meet by Skype.
+
+I'm almost finished with all 17 Codility lessons and have successfully done dozens of problems, with strict Big O time and space complexities. Seeking regular study partners so I don't go crazy explaining algorithms to walls.
+
+On my future list: ""Cracking the Coding Interview."" If you're seriously interested in rigorously going through any of these 3 sources, please contact me!
+
+My Skype: rayning3. I just created a Skype study group and will add everyone to it who's interested.
+
+To join our Skype study group, go here: https://join.skype.com/O3yUoLQepamf",Raymond Gan,,status,,2017-04-11 00:20:31,9,17,1,9,0,0,0,0,0
+759985267390294_1568468493208630,"Does anyone know how to implement this kind of mouseover effect? Any codepens or repos would be very helpful. Trying to do something similar on an ecommerce Wordpress site. All advice is appreciated.
+
+",Austin T. Byrd,Durand Eyeglasses in Deep Sea Blue Fade for Men | Warby Parker,link,https://www.warbyparker.com/eyeglasses/men/durand/deep-sea-blue-fade,2017-04-11 17:24:41,0,3,0,0,0,0,0,0,0
+759985267390294_1567594973295982,"I recently customized my Ubuntu system to look like a hybrid mac/linux system (honestly looks like elementary now), does anyone know of any good icon packs that give you a macOS feel (but for dark theme)?
+
+",Ronak Shah,Installing Ubuntu (coming from Mac),link,https://blog.ronakshah.net/Installing-Ubuntu-Like-A-Mac-User/,2017-04-11 00:45:12,19,9,0,17,1,1,0,0,0
+759985267390294_1567390756649737,Does anyone know of a free program for translating an audio file into text?,Caroline Hylton,,status,,2017-04-10 20:44:50,4,14,0,4,0,0,0,0,0
+759985267390294_1568379039884242,"Guys, I made a tutorial for building a rest api for one of my classes, if you're interested in NodeJS and how to build the backend of an app or web app this should be useful for you
+
+",Deep Patel,deep7176/hello-api,link,https://github.com/deep7176/hello-api,2017-04-11 15:27:15,10,2,1,9,1,0,0,0,0
+759985267390294_1568403063215173,"Yes, I'm Ready. 🚀 -- Getting Women to Believe in Their Own Career Preparedness. Please join us for a panel discussion with senior leaders in Tech. 💡Quick look at our speakers: Michelle Zatlyn, Co-Founder, Cloudflare, Inc.; Erin Teague, Head of Product (VR/AR), YouTube; Jocelyn Ding, COO, OmadaHealth; Vidya Peters, VP Corporate Marketing, MuleSoft. 👉 Please RSVP: ",Claire Lee,"Panel on April 24th: Yes, I'm Ready. Getting Women to Believe in Their Own Career Preparedness.",link,http://goo.gl/rd7Rm9,2017-04-11 15:59:48,3,0,0,3,0,0,0,0,0
+759985267390294_1567398503315629,"APPLICATIONS LIVE NOW
+
+Coding it Forward is bringing a paid (+housing&travel) Silicon Valley-esque internship program to federal government agencies!!! We're looking for data scientists/software engineers, product managers, designers, and data journalists!
+
+Interviews begin THIS Thursday (!!!), and applications will be accepted on a rolling basis until all eight positions are filled, which will be no later than Friday, April 28, 2017.
+
+Apply here: ",Athena Kan,Civic Digital Fellowship | Coding it Forward,link,http://codingitforward.com/fellowship/,2017-04-10 20:57:02,70,12,4,63,6,1,0,0,0
+759985267390294_1567496076639205,"Out of curiosity, how many times do you usually check Github a day outside of work (for any reason)?",Domingo Hui,,status,,2017-04-10 22:47:57,5,2,0,5,0,0,0,0,0
+759985267390294_1566076860114460,should #dundermifflin sponsor internapalooza?,Li Xuanji,,photo,https://www.facebook.com/photo.php?fbid=10154817867953751&set=gm.1566076860114460&type=3,2017-04-09 18:26:58,25,10,0,18,0,1,6,0,0
+759985267390294_1567268269995319,Question: Would you go to a hackathon that was held outside under large tents if it was held when the weather was comfortable?,Christopher Frederickson,,status,,2017-04-10 17:56:13,10,9,0,7,2,1,0,0,0
+759985267390294_897793066942846,I personally think that they teach way too much math garbage in our computer science curriculum. They should scrap it all and focus on memes and funding. I personally think that memes and computers are the same thing anyway,Nick Sahler,,status,,2014-11-01 17:24:09,62,11,0,62,0,0,0,0,0
+759985267390294_1568237879898358,Are you aiming this http://www.sequoiahack.com ?,Sandeep Acharya,Sequoia::Hack 2016,link,http://www.sequoiahack.com/,2017-04-11 12:38:36,0,0,0,0,0,0,0,0,0
+759985267390294_1568064993248980,"For building web services:  
+Restify > Express?",Varun P,,status,,2017-04-11 09:16:46,1,2,0,1,0,0,0,0,0
+759985267390294_1567869673268512,"Hi, anyone really familiar with Apple Photos? I'm cautiously trying the app on my macbook, and wondering if after importing a photo to Apple Photos, I can delete the original file without worrying about any data loss (such as unwanted resizing, etc). For testing, I was comparing the size of original photo vs photo that was imported to Photos and pulled back to Finder (drag & drop), and right now I'm thinking the difference (79 bytes out of 1.4 MB total size) might be coming from name change (to prevent duplicates, the second file was automatically re-named 'original 2.jpg'), but what else could be happening behind the scenes?",SoYoung Park,,status,,2017-04-11 05:43:48,1,6,0,1,0,0,0,0,0
+759985267390294_1568166476572165,"Does anyone have any suggestions for the best code academy in LA? I know there are great ones in the bay (hack reactor, app academy, etc) but my friend doesn't want to move to the bay. Thanks!
+
+I have been doing some research online but I was hoping to get some personal testimonies, so if you or anyone you know has some experience -- good/bad/neutral -- with any LA code academy please post about it",Christopher McLaughlin,,status,,2017-04-11 11:17:59,2,1,0,2,0,0,0,0,0
+759985267390294_1566609796727833,Will a raspberry pi 3 model B support 4k videos ? And will it run smooth ?,Athul Blesson,,status,,2017-04-10 05:37:17,6,17,0,1,1,1,2,1,0
+759985267390294_1566421503413329,"[Serious]
+
+Does anyone know how to print JSON in some sort of textarea that displays like code?
+
+If I just do <textarea value={data} /> where data is:
+data = JSON.stringify(obj, undefined, 4);
+
+I get a bunch of escaped json in the text area. I was really hoping for it to look like this:
+
+{
+  key: 'value',
+  key2: 'value2
+}",Anthony Alayo,,status,,2017-04-10 01:39:31,2,5,0,2,0,0,0,0,0
+759985267390294_1568080116580801,"ISDEV2017 HACKATHON 
+
+ABOUT ISDEV
+ISDEV (Innovative software developers) is a tech meet up program created to support and train individuals and students, training them to create smart software's and applications that support all platforms.
+
+The event
+ISDEV Hackathon is a weekend dedicated to you and too many hackers, developers and programmers. Collaborate and build creative solutions to problems, while pushing the limits of your mind and body to make something amazing. This event would also showcase interesting artifacts and innovations. We are a young and upcoming group with determined and innovative individuals and this is our first gathering. We have been making preparations to host this event in a more dynamic and unique way with lots of activities.
+
+What is inclusive?
+Come as you are. We make sure you have everything you need to carry out your craziest ideas—amazing mentors, delicious food, and a fun work environment. We are also giving out cash prizes to winning teams.
+
+Register Now isdev2017.eventbrite.com
+
+For Sponsorship and Promotion Contact Segun Joshua Via mail brindocorp@gmail.com",Segun Joshua,Photos from Segun Joshua's post,photo,https://www.facebook.com/photo.php?fbid=1420241361331012&set=gm.1568080116580801&type=3,2017-04-11 09:34:51,4,0,1,4,0,0,0,0,0
+759985267390294_1568038589918287,A new tool for training end to end object detection models with CNTK and YOLO.,Ari Bornstein,End to End Object Detection in a Box,link,https://www.microsoft.com/reallifecode/2017/04/10/end-end-object-detection-box/,2017-04-11 08:49:35,8,0,0,8,0,0,0,0,0
+759985267390294_1566039136784899,"I am generally a very calm & helpful person but just wanted to follow-up on a post I saw yesterday here about the StackOverflow community being d***s and all.
+Here's an example of me trying to help someone there, and how eventually my passive aggressiveness gets triggered by his replies.
+
+I know that my last reply was overly harsh, but really!??
+
+(this is from the comments section of a question on StackOverflow)",Marwan Alani,,photo,https://www.facebook.com/photo.php?fbid=10154215618151599&set=gm.1566039136784899&type=3,2017-04-09 17:45:47,41,14,0,38,0,2,0,0,1
+759985267390294_1567959343259545,"Hacking as a service?
+",Harsh Jani,"Security startup Synack scores $21 M investment from Microsoft, HPE and Singtel",link,https://techcrunch.com/2017/04/11/security-startup-synack-scores-21-m-investment-from-microsoft-hpe-and-singtel/?sr_share=facebook,2017-04-11 07:14:01,1,0,0,1,0,0,0,0,0
+759985267390294_1567141786674634,"Need help finding a keylogger for OSX. I want to answer questions like, ""how often do I use caps lock"", ""how often do I use the option key""",Avishaan Singh Sethi,,status,,2017-04-10 15:17:11,2,3,0,2,0,0,0,0,0
+759985267390294_1566396396749173,Hey fellow Hackers. I Have a Chatbot Who Helps you Before a date. During the date (limited messaging) And after a date. Looking for early feedback. If you're interested. Just comment below or message me.,Sal Kuyateh,,status,,2017-04-10 00:50:39,4,3,0,4,0,0,0,0,0
+759985267390294_1567690389953107,"[serious]
+How to connect ReactNative with PostgreSQL in AWS
+Thanks in Advance :)",Saeed Motamed,,status,,2017-04-11 02:40:32,1,2,0,1,0,0,0,0,0
+759985267390294_1567714303284049,"Hello guys,
+
+I need your help .I wanna build a platform that helps students to learn in a much easier way STEM (Science,Technology,Engineering,Mathematics) school objects and also teachers to teach in a more efficient.I want to make the interaction between student and teachers more efficient and both sides to feel appreciated.
+Can you please share your experience during highscool/college, how would you improve the system and ideas of what this platform should contain.
+
+Thank you very much!",Carmen Mitru,,status,,2017-04-11 03:26:12,2,0,0,2,0,0,0,0,0
+759985267390294_1567228586665954,Do any of you guys know how to make a chat bot using past conversation data? Are there any easy APIs for this?,Joe Thomas,,status,,2017-04-10 16:56:05,3,3,0,2,1,0,0,0,0
+759985267390294_1566530893402390,"[Serious]
+ReactXP or ReactNative?",Saif Rahman,,status,,2017-04-10 03:40:21,1,11,0,1,0,0,0,0,0
+759985267390294_1567633283292151,"Hi everyone, 
+I want to compare the detection rate for sinkhole attacks by three different Intrusion Detection Systems in Wireless Sensor Networks. I am planning to use NS2 for network simulation. However, I have no prior experience with network simulation. I'd appreciate any suggestions and resources that might help me accomplish the comparison. Thanks.",Pradip Khanal,,status,,2017-04-11 01:35:00,5,0,0,5,0,0,0,0,0
+759985267390294_1566360536752759,Can Java be faster than Python3 on prototyping an web app?,Kiu Lam,,status,,2017-04-09 23:47:32,9,14,0,8,1,0,0,0,0
+759985267390294_1567188900003256,Has anyone had any experience using the UberRides SDK for iOS (specifically with Swift 3)? I'm having issues with the SSO authentication process and would really appreciate any help!,Ashvin Vinodh,,status,,2017-04-10 16:11:36,4,1,0,3,1,0,0,0,0
+759985267390294_1567013196687493,"This was probably a stupid idea in retrospect.
+gulpfile -> makefile -> more makefiles -> .tex -> PDF",Alvin Lin,Automating My Personal Note-Taking Compilation System,link,https://hackernoon.com/automating-my-personal-note-taking-compilation-system-415696705657,2017-04-10 13:09:22,6,1,1,6,0,0,0,0,0
+759985267390294_1566832093372270,"Some interesting news in the container / orchestration world this morning:
+
+",Amy Chen,Deis to Join Microsoft,link,https://deis.com/blog/2017/deis-to-join-microsoft/,2017-04-10 09:53:27,9,2,1,8,1,0,0,0,0
+759985267390294_1566165540105592,Act out your inner black hat,Phil Chen,'Mr. Robot' Season 3 Casting Call for Hacker Types,link,http://www.projectcasting.com/casting-calls-acting-auditions/mr-robot-season-3-casting-call-hacker-types,2017-04-09 20:07:34,224,36,10,203,9,2,9,0,1
+759985267390294_1567141633341316,[Serious] So I have this issue with ie11 on Windows 7 not sure why but it won't let my use my js functions until i reload from the link in the address bar. Refreshing and f5 won't help. I think it could have something to do with onbeforeunload or https because the code works fine locally and on chrome and Firefox. What are your guys thoughts?,Brad Eagle,,video,https://www.facebook.com/1307490962664583/videos/1298479353565744,2017-04-10 15:16:51,4,7,0,4,0,0,0,0,0
+759985267390294_1567339813321498,Quora behaving like this right now.. :/,Ankit Arya,,photo,https://www.facebook.com/photo.php?fbid=1033599430103388&set=gm.1567339813321498&type=3,2017-04-10 19:24:58,10,0,0,7,0,1,0,2,0
+759985267390294_877827015606118,I wrote a response to an article posted here. I'd love for you to read it and give me some feedback!,Alexander Gould,"Why we need ""Nerd Culture"" now more than ever.",link,https://medium.com/@alexandergould/why-we-need-nerd-culture-now-more-than-ever-b7072228b43d,2014-10-13 22:51:42,11,11,0,11,0,0,0,0,0
+759985267390294_1556050634450416,"Now make any product Snapchat with SaaS (Stories as a Service)!
+
+",JJ Tang,Stories as a Service,link,https://storiesasaservice.com/,2017-04-01 14:46:12,591,24,14,393,13,0,181,4,0
+759985267390294_1567243676664445,"Those of you on windows with multiple monitors, do you hate the Slack app as much as I do?
+
+It keeps bleeding over into other monitors when maximized. So damn annoying.",Hamza Khan,,status,,2017-04-10 17:16:58,0,0,0,0,0,0,0,0,0
+759985267390294_1564501373605342,"""the DoL hasn't provided [Google] with information about its methodology or data to support [its claims]"" This is another example of making claims that have not been verified or researched thoroughly yet, and then attempting to ruin the reputation of a company. I doubt there's a pay gap within Google in the first place. 
+
+But what do I know! Time to delete Google alongside Uber now! /sarcasm
+
+",Lucas Terry,Department of Labor claims that Google systematically underpays its female employees,link,http://www.theverge.com/platform/amp/2017/4/8/15229688/department-of-labor-google-gender-pay-gap,2017-04-08 13:44:17,102,26,5,64,1,8,6,17,6
+759985267390294_1567112646677548,"I'm graduating in May in Computer Engineering and want to be the most extra with my graduation cap. The plan is to do a waving robot and was wondering if anyone has done anything similar putting electronics on a graduation cap. I don't need help when it comes to the electronics themselves; I'm really asking more for parts recommendations and the logistics of how to put it all on the damn cap. 😅
+
+Any other incredibly extra CpE-related ideas are also welcome.
+
+ETA: I plan on doing a drawing of a robot with a waving arm cut out of a sturdy, lightweight material, not an actual full-sized robot. No servo motor that I've seen is slim enough for me.",Hannah Becton,,status,,2017-04-10 14:51:15,1,1,0,1,0,0,0,0,0
+759985267390294_1567085573346922,https://www.producthunt.com/posts/source-ios,Iliad,Source iOS - Product Hunt,link,https://www.producthunt.com/posts/source-ios,2017-04-10 14:30:34,0,0,0,0,0,0,0,0,0
+759985267390294_1567030373352442,"Sound familiar? 
+
+",Matt Auerbach,These Hackathon Hustlers Make Their Living From Corporate Coding Contests,link,https://www.bloomberg.com/news/features/2017-04-04/these-hackathon-hustlers-make-their-living-from-corporate-coding-contests,2017-04-10 13:26:16,5,2,1,4,0,0,1,0,0
+759985267390294_1567039850018161,"Following the OHI/O program's (hackathon+makethon+showcase+...) success in recent years, Ohio State is now hiring a full-time Program Director. Candidates should have a strong technical and/or managerial background with a strong interest in informal learning through events like hackathons.
+
+Apply here:
+",Dalton Flanagan,Program Director,link,https://www.jobsatosu.com/postings/77719,2017-04-10 13:35:19,6,0,0,5,1,0,0,0,0
+759985267390294_1566955066693306,"Hey everyone!!😄😄
+Here is my second featured Instructable!!
+Please have a look and do vote for it in the Lights Contest if you like it😊😊
+Instructables link: https://www.instructables.com/id/Batman-and-FRIENDS-Infinity-Mirror
+Youtube link: https://www.youtube.com/watch?v=lR-ZRDNcJmE&t=3s",Jasmeet Singh,Batman and F.R.I.E.N.D.S Infinity Mirror,link,https://www.instructables.com/id/Batman-and-FRIENDS-Infinity-Mirror,2017-04-10 12:13:44,3,0,2,2,1,0,0,0,0
+759985267390294_1566954533360026,"Hey guys, the product I posted last year 'BrandHunt' got posted again on ProductHunt because of some new features we introduce, check it out, and would appreciate any upvotes! :D
+
+https://brandhunt.co
+https://www.producthunt.com/posts/brandhunt-v2-2",Hussan Choudhry,BrandHunt,link,https://brandhunt.co/,2017-04-10 12:13:17,0,0,0,0,0,0,0,0,0
+759985267390294_1566942723361207,"Built a simple library to simplify the implementation of 3D Flip Rotation in Android based on swipe gestures :
+
+",Nipun Birla,nipun-birla/Swipe3DRotateView,link,https://github.com/nipun-birla/Swipe3DRotateView,2017-04-10 11:57:05,0,0,0,0,0,0,0,0,0
+759985267390294_1565995936789219,"real talk, if you have a spare $2 in Google Play credit, Pocket Git is amazing. I do Project Euler problems on the train to the shoe store.",Вениамин Ройтеньберг,,photo,https://www.facebook.com/photo.php?fbid=1946788195542906&set=gm.1565995936789219&type=3,2017-04-09 16:54:38,21,4,0,17,4,0,0,0,0
+759985267390294_1566919840030162,Is there an HH Mastodon instance?,Christopher Podlaski,,status,,2017-04-10 11:26:27,2,1,0,2,0,0,0,0,0
+759985267390294_1565603176828495,"I often get people asking why I go to soo many hackathons, but can never summarize my answer properly. How would you guys summarize what a hackathon is and why you go to them (in 2-3 lines max)?",John Wu,,status,,2017-04-09 11:37:20,10,10,0,8,2,0,0,0,0
+759985267390294_1564895343565945,Was looking through some analytics from google and noticed this. How did this even happen?,Nikshep Svn,,photo,https://www.facebook.com/photo.php?fbid=1802452556435421&set=gm.1564895343565945&type=3,2017-04-08 21:07:50,11,4,0,6,1,0,3,0,1
+759985267390294_1566862430035903,Is there anyone who has played with apache beam google cloud data-flow. I am having issues with imports if anyone has faced issue before how did you fix it.,Smit Thakkar,,status,,2017-04-10 10:28:00,0,0,0,0,0,0,0,0,0
+759985267390294_1565948593460620,"[serious]
+What's the best way to detect gender from a picture? 
+
+Preferably using python",Ronak Shah,,status,,2017-04-09 16:00:49,41,38,6,24,1,0,10,1,5
+759985267390294_1566791540042992,"Time Well Spent is a movement to transform the race for attention so it aligns with our best interests. It's time to design a blueprint for an attention economy that better aligns with humanity.
+
+Tristan Harris​ is publishing a multi-part piece to address this. Here's the first part to explain - brilliantly written and well, well worth reading. The more action-oriented designers, technologists, policy makers, economists and activists we can reach, the better. 
+
+Please share. Thank you.
+
+",Anika Saigal,It's Time to Redesign the Attention Economy (Part I),link,https://journal.thriveglobal.com/its-time-to-redesign-the-attention-economy-f9215a2210be,2017-04-10 09:16:16,1,0,0,1,0,0,0,0,0
+759985267390294_1565672516821561,,Quincy Larson,Free Code Camp,link,https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27,2017-04-09 12:41:11,18,2,0,17,1,0,0,0,0
