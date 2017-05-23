@@ -22,6 +22,7 @@ class FacebookController extends Controller
             'app_id' => '1599858430294438',
             'app_secret' => 'a796f1650deebdeb105d620041157c2b',
             'default_graph_version' => 'v2.8',
+            'http_client_handler' => 'stream'
             //'default_access_token' => '{access-token}', // optional
         ]);
 
