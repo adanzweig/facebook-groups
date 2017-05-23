@@ -40,7 +40,7 @@ class FacebookController extends Controller
             $helper = $this->fb->getRedirectLoginHelper();
 
             $permissions = ['email','user_managed_groups']; // Optional permissions
-            $loginUrl = $helper->getLoginUrl('http://facebookgroups.dev/callback/true', $permissions);
+            $loginUrl = $helper->getLoginUrl('http://adanjz.com/callback/true', $permissions);
 
             header('location:'.$loginUrl);
             die();
