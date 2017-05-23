@@ -143,7 +143,7 @@ class FacebookController extends Controller
         return $facebookGroups;
     }
     public function checkGroupMember(){
-        $groups = GroupsModel::where_not('userId',Auth::id())->where('owner',1)->get();
+        $groups = GroupsModel::where('userId','!=',Auth::id())->where('owner',1)->get();
         foreach($groups as $group){
             $membersReq = $this->fb->get('/'.$group->groupId.'/members?fields=about&limit=99999999999',$this->getAccessToken($group->userId));
             $members = (array)json_decode($membersReq->getBody());
