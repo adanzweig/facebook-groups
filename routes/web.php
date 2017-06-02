@@ -25,5 +25,6 @@ Route::get('/importGroup/{ID}','FacebookController@importGroupFeeds');
 Route::get('/refreshProducts','FacebookController@refreshProducts');
 Route::get('/products','FacebookController@showAllMyProducts');
 Route::get('/importMoreGroups','FacebookController@showMyGroups');
+Route::get('/webhook','HomeController@test');
 //Route::get('auth/{provider}', 'Auth\AuthController@redirectToProvider');
 //Route::get('auth/{provider}/callback', 'Auth\AuthController@handleProviderCallback');

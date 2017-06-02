@@ -344,7 +344,7 @@ class FacebookController extends Controller
         $this->getGroupFeeds($groupId);
         return $this->showAllMyProducts();
     }
-    public function getAllGroupFeeds($priceMin,$priceMax,$groupsSelected,$query,$page=50){
+    public function getAllGroupFeeds($priceMin=0,$priceMax=9999999999999,$groupsSelected,$query,$page=50){
         $groups = [];
         $groupsModel = GroupsModel::where('userId',Auth::id())->get();
         foreach ($groupsModel as $group) {
@@ -359,7 +359,8 @@ class FacebookController extends Controller
             ->where('price','>',$priceMin)
             ->where('price','<',$priceMax)
             ->where('message','like','%'.$query.'%')
-        ->orderBy('updated_time','desc')->paginate($page);
+            ->orderBy('updated_time','desc')
+            ->paginate($page);
         return $feeds;
     }
     public function refreshProducts(){

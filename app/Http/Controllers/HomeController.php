@@ -25,4 +25,7 @@ class HomeController extends Controller
     {
         return view('home');
     }
+    public function test(){
+        Storage::append('Netatmo.log', json_encode($_REQUEST));
+    }
 }
