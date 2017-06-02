@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-
+use Illuminate\Support\Facades\Storage;
 class HomeController extends Controller
 {
     /**
@@ -27,6 +27,13 @@ class HomeController extends Controller
         return view('home');
     }
     public function test(){
-        Storage::append('Netatmo.log', json_encode($_REQUEST));
+
+        if(Storage::disk('local')->exists('Netatmo.log')){
+            Storage::disk('local')->append('Netatmo.log', json_encode($_REQUEST));
+        }else{
+            Storage::disk('local')->put('Netatmo.log', '\n'.json_encode($_REQUEST));
+
+        }
+
     }
 }
