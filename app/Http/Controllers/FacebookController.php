@@ -19,8 +19,8 @@ class FacebookController extends Controller
         $this->middleware('auth');
 
         $this->fb = new \Facebook\Facebook([
-            'app_id' => '1599858430294438',
-            'app_secret' => 'a796f1650deebdeb105d620041157c2b',
+            'app_id' => 'xxxxxxxxxxx',
+            'app_secret' => 'xxxxxxxxxxxxxxxxxx',
             'default_graph_version' => 'v2.8',
             'http_client_handler' => 'stream'
             //'default_access_token' => '{access-token}', // optional
